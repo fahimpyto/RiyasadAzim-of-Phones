@@ -1,0 +1,66 @@
+{
+  "title": "Samsung W26",
+  "brand": "Samsung",
+  "category": "Smartphones",
+  "added_on": "11th, Oct, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP, f/1.8, (wide), Dual Pixel PDAF, OIS 10 MP, f/2.4, (telephoto), 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 123˚, 12mm (ultrawide), 1.12µm",
+    "Features:": "HDR",
+    "Video:": "4K@30fps, 1080p@30fps, gyro-EIS",
+    "Dual:": "4 MP, f/1.8, 2.0µm, under display Cover camera: 10 MP, f/2.2, 26mm (wide), 1/3\", 1.22µm"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Gorilla Glass Victus+) (folded), plastic front (unfolded), glass back (Gorilla Glass Victus+), aluminum frame",
+    "SIM:": "Up to two Nano SIM and one eSIM",
+    "Others:": "IPX8 water resistant (up to 1.5m for 30 mins) Armour aluminum frame with tougher drop and scratch resistance (advertised) Stylus support"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "4400 mAh"
+  },
+  "Display": {
+    "Type:": "Foldable Dynamic AMOLED 2X capacitive touchscreen, 16M colors",
+    "Size:": "7.6 inches",
+    "Resolution:": "1768 x 2208 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual-SIM model only) CDMA 800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6/mmWave",
+    "Speed:": "HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/200 Mbps, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB / 1TB UFS 3.1",
+    "RAM:": "12 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No 32-bit/384kHz audio Tuned by AKG"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth:": "5.2, A2DP, LE, aptX HD",
+    "GPS:": "Yes, with A-GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.2, USB On-The-Go",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer"
+  }
+}
