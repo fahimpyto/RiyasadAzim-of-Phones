@@ -1,0 +1,59 @@
+{
+  "title": "Vivo Watch GT 2",
+  "brand": "Vivo",
+  "category": "Smart watches",
+  "added_on": "13th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 13",
+  "expected_release": "2025, October 17",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1500000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "47.5 x 40.2 x 11 mm (1.87 x 1.58 x 0.43 in)",
+    "Weight:": "34.8 g or 35.8 g (1.23 oz)",
+    "Build:": "Glass front, aluminum alloy frame, plastic back",
+    "SIM:": "eSIM - cellular model only",
+    "Others:": "2ATM water resistant Compatible with standard 22mm straps"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "595 mAh - eSIM version 695 mAh - bluetooth version"
+  },
+  "Display": {
+    "Type:": "AMOLED, 2400 nits (peak)",
+    "Size:": "2.07 inches",
+    "Resolution:": "432 x 514 pixels (~324 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "HSPA / LTE",
+    "2G bands:": "N/A",
+    "3G bands:": "HSDPA 850 / 900 / 2100 - cellular model only",
+    "4G bands:": "LTE - cellular model only",
+    "Speed:": "HSPA, LTE - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "Blue OS 3.0",
+    "Chipset:": "-",
+    "CPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "Unspecified",
+    "RAM:": "-"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, compass, SpO2"
+  }
+}

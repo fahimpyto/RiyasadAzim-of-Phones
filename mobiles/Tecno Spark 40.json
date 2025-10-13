@@ -1,0 +1,66 @@
+{
+  "title": "Tecno Spark 40",
+  "brand": "Tecno",
+  "category": "Smartphones",
+  "added_on": "13th, Oct, 2025",
+  "status": "Not available",
+  "announced_date": "2025, October 13",
+  "expected_release": "2025, October 13",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1699900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP, (wide)",
+    "Features:": "Dual-LED flash",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "167.69 x 77.87 x 7.99 mm",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh",
+    "Charging:": "18W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.75 inches",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "MediaTek Dimensity 6400 (6 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "-",
+    "Internal:": "128 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes DTS"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes, v5.4",
+    "GPS:": "GPS",
+    "NFC:": "Yes",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors"
+  }
+}
