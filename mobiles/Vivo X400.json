@@ -1,0 +1,68 @@
+{
+  "title": "Vivo X400",
+  "brand": "Vivo",
+  "category": "Smartphones",
+  "added_on": "14th, Oct, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "200 MP 50 MP 50 MP",
+    "Features:": "HDR",
+    "Video:": "4K@30/60fps, 1080p@30/60fps",
+    "Single:": "50 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, aluminum alloy frame, glass back",
+    "SIM:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) - International Nano-SIM + Nano-SIM - China"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "6040 mAh"
+  },
+  "Display": {
+    "Type:": "LTPO AMOLED, 1B colors, 120Hz, 2160Hz PWM, HDR10+, HDR Vivid, 4500 nits (peak)",
+    "Size:": "6.31 inches",
+    "Resolution:": "1216 x 2640 pixels",
+    "Protection:": "Unspecified",
+    "Features:": "Ultra HDR image support"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 - International HSDPA 850 / 900 / 2100 - Malaysia, India HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - China",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 43, 48, 66",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 18, 20, 25, 26, 28, 34, 38, 39, 40, 41, 48, 66, 77, 78 SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 4 major Android upgrades, Funtouch 16 (International), OriginOS 6 (China)",
+    "Chipset:": "Mediatek Dimensity 9500 (3 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB / 1TB",
+    "RAM:": "12/16 GB",
+    "Variant:": "12GB 256GB / 16GB 256GB / 12GB 512GB / 16GB 512GB / 16GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5",
+    "GPS:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5)",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.2, OTG",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+  }
+}

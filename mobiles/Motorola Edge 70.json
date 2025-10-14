@@ -1,0 +1,69 @@
+{
+  "title": "Motorola Edge 70",
+  "brand": "Motorola",
+  "category": "Smartphones",
+  "added_on": "14th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 14",
+  "expected_release": "2025, October 31",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, multi-directional PDAF, OIS 50 MP, f/2.0, 12mm, 120˚ (ultrawide), 1/2.76\", 0.64µm, PDAF",
+    "Features:": "HDR",
+    "Video:": "4K@30fps, 1080p@30/120fps",
+    "Single:": "50 MP, f/2.0, (wide), 0.64µm"
+  },
+  "Design": {
+    "Dimensions:": "160 x 75 x 6 mm (6.30 x 2.95 x 0.24 in)",
+    "Weight:": "170 g (6.00 oz)",
+    "Build:": "Glass front (Gorilla Glass 7i), plastic frame, plastic back",
+    "SIM:": "Nano-SIM + eSIM - International Nano-SIM + Nano-SIM - China",
+    "Others:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min) MIL-STD-810H compliant* * does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "4800 mAh",
+    "Charging:": "68W wired 15W wireless"
+  },
+  "Display": {
+    "Type:": "P-OLED, 1B colors, 120Hz, PWM, HDR10+, 4500 nits (peak)",
+    "Size:": "6.7 inches, 107.4 cm2 (~90.4% screen-to-body ratio)",
+    "Resolution:": "1220 x 2712 pixels, 20:9 ratio (~446 ppi density)",
+    "Protection:": "Corning Gorilla Glass 7i"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE (CA), 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 3 major Android upgrades",
+    "Chipset:": "Qualcomm SM7750-AB Snapdragon 7 Gen 4 (4 nm)",
+    "CPU:": "Octa-core (1x2.8 GHz Cortex-720 & 4x2.4 GHz Cortex-720 & 3x1.8 GHz Cortex-520)",
+    "GPU:": "Adreno 722",
+    "Card slot:": "microSDXC",
+    "Internal:": "256/512 GB",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 256GB / 12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Smart Connect support"
+  }
+}

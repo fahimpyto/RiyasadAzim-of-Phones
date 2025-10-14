@@ -1,0 +1,69 @@
+{
+  "title": "OnePlus Turbo",
+  "brand": "OnePlus",
+  "category": "Smartphones",
+  "added_on": "14th, Oct, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP 50 MP 8 MP",
+    "Features:": "HDR, panorama",
+    "Video:": "1080p@30fps, gyro-EIS",
+    "Single:": "16 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Gorilla Glass 7i), aluminum frame, glass back",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP65, waterproof and dustproof"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh"
+  },
+  "Display": {
+    "Type:": "LTPO4.1 AMOLED, 1B colors, 120Hz, HDR10+, Dolby Vision, HDR Vivid, 1600 nits (HBM), 4500 nits (peak)",
+    "Size:": "6.78 inches",
+    "Resolution:": "1264 x 2780 pixels",
+    "Protection:": "Corning Gorilla Glass 7i",
+    "Features:": "Ultra HDR image support"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 CDMA 800",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 38, 39, 40, 41, 48, 66, 71",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 71, 77, 78 SA/NSA",
+    "Speed:": "HSPA, LTE-A (CA), 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm SM8650-AB Snapdragon 8 Gen 3 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB",
+    "RAM:": "12/16 GB",
+    "Variant:": "12GB 256GB / 16GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5",
+    "GPS:": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  }
+}
