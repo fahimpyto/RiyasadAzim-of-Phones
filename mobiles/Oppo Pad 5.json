@@ -1,0 +1,64 @@
+{
+  "title": "Oppo Pad 5",
+  "brand": "Oppo",
+  "category": "Tablets",
+  "added_on": "16th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 16",
+  "expected_release": "2025, October",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "8 MP",
+    "Features:": "Color spectrum sensor, LED flash",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "266.9 x 193.4 x 6 mm (10.51 x 7.61 x 0.24 in)",
+    "Weight:": "577 g or 579 g (1.27 lb)",
+    "SIM:": "No",
+    "Others:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "10420 mAh",
+    "Charging:": "67W wired, 67W UFCS, 55W PPS, 18W PD"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 1B colors, 144Hz, 600 nits (typ), 900 nits (HBM)",
+    "Size:": "12.1 inches, 445.2 cm2 (~86.2% screen-to-body ratio)",
+    "Resolution:": "2120 x 3000 pixels (~304 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "Speed:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "Chipset:": "Mediatek Dimensity 9400+ (3 nm)",
+    "CPU:": "Octa-core (1x3.63 GHz Cortex-X925 & 3x3.3 GHz Cortex-X4 & 4x2.4 GHz Cortex-A720)",
+    "GPU:": "Immortalis-G925",
+    "Card slot:": "No",
+    "Internal:": "128/256/512GB",
+    "RAM:": "8/12/16 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB / 12GB 256GB / 16GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack:": "No 24-bit/192kHz audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.2, OTG, accessory connector",
+    "Sensors:": "Accelerometer, proximity (accessories only), gyro, compass"
+  }
+}

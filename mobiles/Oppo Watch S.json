@@ -1,0 +1,55 @@
+{
+  "title": "Oppo Watch S",
+  "brand": "Oppo",
+  "category": "Smart watches",
+  "added_on": "16th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 16",
+  "expected_release": "2025, October 22",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "45 x 45 x 8.9 mm (1.77 x 1.77 x 0.35 in)",
+    "Weight:": "35 g (1.23 oz)",
+    "SIM:": "No",
+    "Others:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Waterproof (5ATM/50m) ECG certified"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "339 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 3000 nits (peak)",
+    "Size:": "1.46 inches",
+    "Resolution:": "464 x 464 pixels (~317 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "ColorOS Watch 7.1",
+    "Chipset:": "Qualcomm Snapdragon W5 Gen 1 (4 nm)",
+    "Card slot:": "No",
+    "Internal:": "4 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, gyro, barometer, compass, heart rate, SpO2"
+  }
+}

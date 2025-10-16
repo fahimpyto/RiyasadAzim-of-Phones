@@ -1,0 +1,69 @@
+{
+  "title": "Apple iPad Pro 13 (2025)",
+  "brand": "Apple",
+  "category": "Tablets",
+  "added_on": "16th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 16",
+  "expected_release": "2025, October",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 16500000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "12 MP, f/2.0, 122˚ (ultrawide)",
+    "Features:": "Face detection, HDR, panorama",
+    "Video:": "1080p@25/30/60fps, gyro-EIS, HDR"
+  },
+  "Design": {
+    "Dimensions:": "281.6 x 215.5 x 5.1 mm (11.09 x 8.48 x 0.20 in)",
+    "Weight:": "579 g (Wi-Fi), 582 g (5G) (1.28 lb)",
+    "Build:": "Glass front, aluminum back, aluminum frame",
+    "SIM:": "eSIM",
+    "Others:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "-",
+    "Charging:": "50% in 30 min"
+  },
+  "Display": {
+    "Type:": "Ultra Retina Tandem OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (HBM), 1600 nits (peak)",
+    "Size:": "13.0 inches, 523.4 cm2 (~86.2% screen-to-body ratio)",
+    "Resolution:": "2064 x 2752 pixels, 4:3 ratio (~265 ppi density)",
+    "Protection:": "Scratch-resistant glass, oleophobic coating",
+    "Features:": "Antireflective coating Nano-texture display glass option on 1TB and 2TB models"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE (CA), 5G"
+  },
+  "Hardware": {
+    "OS:": "iPadOS 26",
+    "Chipset:": "Apple M5",
+    "CPU:": "9-core (3 performance cores, 6 efficiency cores) - 256/512GB models 10-core (4 performance cores, 6 efficiency cores) - 1/2TB models",
+    "GPU:": "Apple GPU (10-core graphics)",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB / 1/2 TB",
+    "RAM:": "12/16 GB",
+    "Variant:": "12GB 256GB / 12GB 512GB / 16GB 1TB / 16GB 2TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, dual-band, hotspot",
+    "Bluetooth:": "6.0, A2DP, LE, EDR",
+    "GPS:": "GPS, GLONASS, GALILEO, QZSS (Wi‑Fi + Cellular model only)",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 4 (Thunderbolt 3), DisplayPort, magnetic connector",
+    "Sensors:": "Face ID, accelerometer, gyro, compass, barometer"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "title": "Honor Watch 5 Pro",
+  "brand": "Honor",
+  "category": "Smart watches",
+  "added_on": "16th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 16",
+  "expected_release": "2025, October",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 3000000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, titanium alloy frame (grade 5), polymer fiber back",
+    "SIM:": "No",
+    "Others:": "IP68 dust tight and water resistant 5 ATM/50m ECG certified"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "480 mAh"
+  },
+  "Display": {
+    "Type:": "LTPO AMOLED",
+    "Size:": "1.5 inches",
+    "Resolution:": "466 x 466 pixels (~310 ppi density)",
+    "Features:": "Always-on display"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "Speed:": "No"
+  },
+  "Hardware": {
+    "OS:": "Proprietary OS",
+    "Chipset:": "-",
+    "Card slot:": "No",
+    "Internal:": "8 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2"
+  }
+}
