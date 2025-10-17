@@ -1,0 +1,69 @@
+{
+  "title": "Huawei Nova Flip S",
+  "brand": "Huawei",
+  "category": "Smartphones",
+  "added_on": "17th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 17",
+  "expected_release": "2025, October 25",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 6000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", PDAF, OIS 8 MP, f/2.2, 112˚ (ultrawide)",
+    "Features:": "HDR, panorama",
+    "Video:": "4K, 1080p",
+    "Single:": "32 MP, f/2.2, 21mm (ultrawide)"
+  },
+  "Design": {
+    "Dimensions:": "Unfolded: 169.8 x 75.4 x 6.9 mm Folded: 87.8 x 75.4 x 15.1 mm",
+    "Weight:": "195 g or 199 g (6.88 oz)",
+    "Build:": "Aluminum alloy frame, glass back or silicone polymer (eco leather) back",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "Splash/dust resistant"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "4400 mAh",
+    "Charging:": "66W wired, 100% in 40 min 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "Foldable LTPO OLED, 120Hz, HDR",
+    "Size:": "6.94 inches, 111.4 cm2 (~87.0% screen-to-body ratio)",
+    "Resolution:": "1136 x 2690 pixels (~421 ppi density)",
+    "Features:": "Cover display: LTPO OLED, 2.14 inch, 480 x 480 pixels, 120Hz, 1440Hz PWM, 318ppi"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 5.1",
+    "Chipset:": "Kirin 8030",
+    "CPU:": "Octa-core",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 256GB / 12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.2, A2DP, LE, L2HC",
+    "GPS:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, compass Virtual proximity sensing"
+  }
+}

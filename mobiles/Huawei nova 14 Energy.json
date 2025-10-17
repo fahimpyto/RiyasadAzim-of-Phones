@@ -1,0 +1,66 @@
+{
+  "title": "Huawei nova 14 Energy",
+  "brand": "Huawei",
+  "category": "Smartphones",
+  "added_on": "17th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 17",
+  "expected_release": "2025, October 25",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 4500000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "50 MP, f/1.9, 23mm (wide), 1/1.56\", Dual Pixel PDAF 8 MP, f/2.2, 16mm, 112˚ (ultrawide), AF",
+    "Features:": "HDR, panorama",
+    "Video:": "4K, 1080p, gyro-EIS",
+    "Single:": "50 MP, f/2.4, 1/2.5\""
+  },
+  "Design": {
+    "Dimensions:": "161.8 x 75.5 x 7.2 mm (6.37 x 2.97 x 0.28 in)",
+    "Weight:": "191 g (6.74 oz)",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP65 dust tight and water resistant (low pressure water jets)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5500 mAh",
+    "Charging:": "66W wired 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "OLED, 1B colors, HDR, 120Hz, 2160Hz PWM",
+    "Size:": "6.7 inches, 108.3 cm2 (~88.6% screen-to-body ratio)",
+    "Resolution:": "1084 x 2412 pixels, 20:9 ratio (~395 ppi density)",
+    "Protection:": "Aluminosilicate glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 (dual sim model only) CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 5.1",
+    "Chipset:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB,",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 256GB / 12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.2, A2DP, LE, L2HC (320-960 kbps HD audio)",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, compass Virtual proximity sensing"
+  }
+}
