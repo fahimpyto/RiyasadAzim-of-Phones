@@ -1,0 +1,65 @@
+{
+  "title": "Xiaomi Redmi K90",
+  "brand": "Xiaomi",
+  "category": "Smartphones",
+  "added_on": "23rd, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, October 23",
+  "expected_release": "2025, October 23",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "108 MP 8 MP 5 MP",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps, 720p@120fps",
+    "Single:": "20 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh"
+  },
+  "Display": {
+    "Type:": "Super AMOLED capacitive touchscreen, 16M colors",
+    "Size:": "6.67 inches,",
+    "Resolution:": "1080 x 2400 pixels",
+    "Protection:": "Corning Gorilla Glass 5"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 CDMA 800",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 38, 39, 40, 41, 42",
+    "5G bands:": "1, 3, 7, 8, 20, 28, 38, 41, 77, 78 NSA",
+    "Speed:": "HSPA 42.2/5.76 Mbps, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Dimensity 9000",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256 GB",
+    "RAM:": "12 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No 24-bit/192kHz audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/ax, dual-band, Wi-Fi Direct, DLNA, hotspot",
+    "Bluetooth:": "5.1, A2DP, LE, aptX HD, aptX Adaptive",
+    "GPS:": "Yes, with dual-band A-GPS, GLONASS, BDS, GALILEO, QZSS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, USB On-The-Go",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, color spectrum, barometer"
+  }
+}

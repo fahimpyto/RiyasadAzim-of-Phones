@@ -1,0 +1,66 @@
+{
+  "title": "Oukitel OT6 Pro",
+  "brand": "Oukitel",
+  "category": "Tablets",
+  "added_on": "22nd, Oct, 2025",
+  "status": "AVAILABLE",
+  "announced_date": "2025, February",
+  "expected_release": "2025, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "2 MP, f/2.8",
+    "Features:": "LED flash",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "246.1 x 162.8 x 9.6 mm (9.69 x 6.41 x 0.38 in)",
+    "Weight:": "553 g (1.22 lb)",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "8000 mAh",
+    "Charging:": "10W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 330 nits",
+    "Size:": "10.1 inches, 295.8 cm2 (~73.8% screen-to-body ratio)",
+    "Resolution:": "800 x 1280 pixels, 16:10 ratio (~149 ppi density)",
+    "Protection:": "Asahi glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 HSDPA 900 / 2100",
+    "4G bands:": "1, 3, 5, 7, 8, 19, 20, 38, 39, 40, 41",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Unisoc T615 (12 nm)",
+    "CPU:": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MP1",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "128/256/512 GB UFS 3.1",
+    "RAM:": "4/8 GB",
+    "Variant:": "4GB 128GB / 8GB 256GB / 8GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C",
+    "Sensors:": "Accelerometer"
+  }
+}
