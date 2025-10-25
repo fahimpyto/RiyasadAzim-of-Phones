@@ -1,0 +1,66 @@
+{
+  "title": "HMD Fusion 2",
+  "brand": "HMD",
+  "category": "Smartphones",
+  "added_on": "25th, Oct, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "108 MP, (wide), AF 2 MP, (depth)",
+    "Features:": "LED flash, HDR",
+    "Video:": "Yes",
+    "Single:": "50 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic frame, plastic back",
+    "SIM:": "Nano-SIM, eSIM or Hybrid Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "5000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz, 480 nits (typ), 600 nits (HBM)",
+    "Size:": "6.56 inches",
+    "Resolution:": "720 x 1612 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "2, 4, 5, 7, 8, 12, 13, 25, 26, 28, 41, 66, 71",
+    "5G bands:": "2, 4, 5, 7, 25, 41, 66, 71, 77, 78 SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "128/256 GB",
+    "RAM:": "6/8 GB",
+    "Variant:": "6GB 128GB/ 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6",
+    "Bluetooth:": "5.1, A2DP, LE, aptX Adaptive",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS",
+    "NFC:": "Yes",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0, OTG, magnetic accessory connector pins",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  }
+}

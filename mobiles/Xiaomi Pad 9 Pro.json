@@ -1,0 +1,65 @@
+{
+  "title": "Xiaomi Pad 9 Pro",
+  "brand": "Xiaomi",
+  "category": "Tablets",
+  "added_on": "25th, Oct, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "32 MP",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, aluminum frame, aluminum back",
+    "SIM:": "No",
+    "Others:": "Stylus support (magnetic)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "9200 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 68B colors, 144Hz, HDR10, Dolby Vision, HDR Vivid, 800 nits (peak)",
+    "Size:": "11.2 inches",
+    "Resolution:": "2136 x 3200 pixels"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "GPRS:": "No",
+    "EDGE:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16, HyperOS 3",
+    "Chipset:": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128/256/512 GB",
+    "RAM:": "8/12/16 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB / 12GB 256GB / 12GB 512GB / 16GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack:": "No 24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP, LE, LHDC 5",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.2, accessory connector",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  }
+}
