@@ -1,0 +1,64 @@
+{
+  "title": "Proton Infinity 8",
+  "brand": "Proton Mobile",
+  "category": "Smartphones",
+  "added_on": "20th, Oct, 2025",
+  "status": "Not available",
+  "announced_date": "2025, October 20",
+  "expected_release": "2025, October 20",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1050000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "13 MP",
+    "Features:": "Zoom, panorama, night mode, portrait",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "168.75 x 78.1 x 8.2mm",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5200 mAh",
+    "Charging:": "12W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.9 inches (~90% screen-to-body ratio)",
+    "Resolution:": "720 x 1612 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "UTMS 900 / 2100",
+    "4G bands:": "LTE 900 / 1800 / 2100 / 2600 / 2300 / 2500",
+    "Speed:": "UTMS, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Unisoc T606 (12 nm)",
+    "CPU:": "Octa-core",
+    "GPU:": "-",
+    "Card slot:": "microSD up to 1TB",
+    "Internal:": "128 GB",
+    "RAM:": "4 GB with 4GB virtual RAM",
+    "Variant:": "4GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi hotspot",
+    "Bluetooth:": "Yes, v5.3",
+    "GPS:": "Yes",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity"
+  }
+}
