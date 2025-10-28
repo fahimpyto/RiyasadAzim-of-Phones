@@ -1,0 +1,67 @@
+{
+  "title": "Honor X6b Plus",
+  "brand": "Honor",
+  "category": "Smartphones",
+  "added_on": "28th, Oct, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP 2 MP",
+    "Features:": "LED flash, HDR",
+    "Video:": "1080p@30fps",
+    "Single:": "5 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5200 mAh"
+  },
+  "Display": {
+    "Type:": "TFT LCD, 120Hz, 850 nits (peak)",
+    "Size:": "6.77 inches",
+    "Resolution:": "720 x 1610 pixels",
+    "Protection:": "Aluminosilicate glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm SM4450 Snapdragon 4 Gen 2 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "Yes 24-bit/192kHz Hi-Res audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.0, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "Yes (market/region dependent)",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}
