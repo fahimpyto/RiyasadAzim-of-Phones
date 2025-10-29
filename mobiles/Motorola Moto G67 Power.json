@@ -1,0 +1,68 @@
+{
+  "title": "Motorola Moto G67 Power",
+  "brand": "Motorola",
+  "category": "Smartphones",
+  "added_on": "29th, Oct, 2025",
+  "status": "COMING SOON",
+  "announced_date": "Exp. announcement 2025, November",
+  "expected_release": "2025, November",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP, f/1.9 (wide), 1/1.95\", 0.8µm, PDAF 8 MP, f/2.2, 118˚ (ultrawide), 1/4.0\", 1.12µm",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps",
+    "Single:": "32 MP, f/2.2, (wide), 0.7µm"
+  },
+  "Design": {
+    "Dimensions:": "166.2 x 76.5 x 8.6 mm (6.54 x 3.01 x 0.34 in)",
+    "Weight:": "210 g (7.41 oz)",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes) MIL-STD-810H compliant* * does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "7000 mAh",
+    "Charging:": "30W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 1050 nits (peak)",
+    "Size:": "6.72 inches, 109.0 cm2 (~85.8% screen-to-body ratio)",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)",
+    "Protection:": "Corning Gorilla Glass 7i"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm SM7435-AB Snapdragon 7s Gen 2 (4 nm)",
+    "CPU:": "Octa-core (4x2.40 GHz Cortex-A78 & 4x1.95 GHz Cortex-A55)",
+    "GPU:": "Adreno 710",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "128/256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "Yes (market/region dependent)",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors"
+  }
+}
