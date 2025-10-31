@@ -1,0 +1,66 @@
+{
+  "title": "Umidigi Note 100 4G",
+  "brand": "Umidigi",
+  "category": "Smartphones",
+  "added_on": "31st, Oct, 2025",
+  "status": "AVAILABLE",
+  "announced_date": "2025, October",
+  "expected_release": "2025, October",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP, (wide), AF 2 MP (macro) Auxiliary lens",
+    "Features:": "LED flash",
+    "Video:": "Yes",
+    "Single:": "16 MP, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "167.8 x 77.4 x 7.7 mm (6.61 x 3.05 x 0.30 in)",
+    "Weight:": "190 g (6.70 oz)",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "20W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.8 inches, 111.6 cm2 (~86.0% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~258 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 39, 38, 40, 41, 66",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 14",
+    "Chipset:": "Unisoc T615 (12 nm)",
+    "CPU:": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MP1",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "128/256 GB",
+    "RAM:": "6/8 GB",
+    "Variant:": "6GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "Yes",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}
