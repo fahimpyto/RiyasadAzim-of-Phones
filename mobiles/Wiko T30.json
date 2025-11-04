@@ -1,0 +1,64 @@
+{
+  "title": "Wiko T30",
+  "brand": "Wiko",
+  "category": "Smartphones",
+  "added_on": "4th, Nov, 2025",
+  "status": "AVAILABLE",
+  "announced_date": "2025, Q3",
+  "expected_release": "2025, Q3",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "5 MP",
+    "Features:": "LED flash",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "168.8 x 78.1 x 8.5 mm (6.65 x 3.07 x 0.33 in)",
+    "Weight:": "199.6 g (7.05 oz)",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "18W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.75 inches, 110.0 cm2 (~83.4% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 5, 7, 8, 20, 28, 38, 40, 41",
+    "Speed:": "1, 3, 5, 7, 8, 20, 28, 38, 41, 77, 78 SA/NSA"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Dimensity 6300 (6 nm)",
+    "CPU:": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MC2",
+    "Card slot:": "Unspecified",
+    "Internal:": "128/256 GB",
+    "RAM:": "4/8 GB",
+    "Variant:": "4GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO",
+    "NFC:": "No",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer"
+  }
+}
