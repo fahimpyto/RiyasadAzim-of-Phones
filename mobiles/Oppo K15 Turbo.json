@@ -1,0 +1,66 @@
+{
+  "title": "Oppo K15 Turbo",
+  "brand": "Oppo",
+  "category": "Smartphones",
+  "added_on": "5th, Nov, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP 2 MP",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "1080p@30fps",
+    "Single:": "16 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP65 dust tight and water resistant (low pressure water jets)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "7000 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 120Hz, 600 nits (typ), 1200 nits (peak)",
+    "Size:": "6.67 inches",
+    "Resolution:": "1080 x 2400 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 28, 40, 41",
+    "5G bands:": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm Snapdragon 6 Gen 4 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128/256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No Snapdragon Sound"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  }
+}

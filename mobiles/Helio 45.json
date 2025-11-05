@@ -1,0 +1,69 @@
+{
+  "title": "Helio 45",
+  "brand": "Helio",
+  "category": "Smartphones",
+  "added_on": "5th, Nov, 2025",
+  "status": "Not available",
+  "announced_date": "2025, November 01",
+  "expected_release": "2025, November 01",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1199900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Triple:": "50 MP, f/1.8 0.08 MP 0.08 MP",
+    "Features:": "Portrait",
+    "Video:": "1080p@30fps, 720@30fps, 480@30fps",
+    "Single:": "32 MP, f/2.0"
+  },
+  "Design": {
+    "Dimensions:": "166.3 x 77.8 x 8.6 mm",
+    "Weight:": "196.5 g",
+    "Build:": "Glass front, plastic back",
+    "SIM:": "Dual SIM (Nano-SIM/TF Hybrid, dual stand-by)",
+    "Others:": "IP64 dust and water resistance"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "18W wired",
+    "Stand-by:": "200 hours",
+    "Talk time:": "16 hours"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 480 nits",
+    "Size:": "6.67 inches (~90.2% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~263 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA+, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "MediaTek Helio G81 (12 nm)",
+    "CPU:": "Octa-Core 2.0GHz",
+    "GPU:": "Mali-G52 MC2@850MHz",
+    "Card slot:": "microSD, up to 512GB",
+    "Internal:": "128 GB",
+    "RAM:": "6/8 GB",
+    "Variant:": "6GB 128GB / 8GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth:": "Yes",
+    "GPS:": "Yes, with A-GPS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side mounted), G-sensor, proximity, light sensor"
+  }
+}
