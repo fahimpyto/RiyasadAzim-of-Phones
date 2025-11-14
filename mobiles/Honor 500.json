@@ -1,0 +1,66 @@
+{
+  "title": "Honor 500",
+  "brand": "Honor",
+  "category": "Smartphones",
+  "added_on": "13th, Nov, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced",
+  "expected_release": "2025, November",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "200 MP 12 MP",
+    "Features:": "HDR",
+    "Video:": "4K, 1080p, gyro-EIS",
+    "Single:": "50 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + eSIM",
+    "Others:": "IP65 dust tight and water resistant (low pressure water jets) IP66 dust tight and water resistant (high pressure water jets) * market/region dependent availability"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "5300 mAh - Europe, Si/C Li-Ion 6000 mAh - ROW"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1B colors, 120Hz, HDR, 5000 nits (peak)",
+    "Size:": "6.55 inches",
+    "Resolution:": "1264 x 2736 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm SM7550-AB Snapdragon 7 Gen 3 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB",
+    "RAM:": "8/12 GB",
+    "Variant:": "8GB 256GB / 12GB 256GB / 8GB 512GB / 12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD",
+    "GPS:": "GPS, GALILEO, GLONASS, QZSS, BDS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass, ultrasound proximity"
+  }
+}

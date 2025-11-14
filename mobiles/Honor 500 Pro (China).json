@@ -1,0 +1,69 @@
+{
+  "title": "Honor 500 Pro (China)",
+  "brand": "Honor",
+  "category": "Smartphones",
+  "added_on": "14th, Nov, 2025",
+  "status": "COMING SOON",
+  "announced_date": "Expected announcement 2025, November",
+  "expected_release": "2025, November",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "200 MP, f/1.9, (wide), 1/1.4\", 0.56µm, PDAF, OIS 50 MP, f/2.4, (periscope telephoto), 1/2.51\", 0.7µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 117˚ (ultrawide), AF",
+    "Features:": "HDR",
+    "Video:": "4K, 1080p, gyro-EIS",
+    "Dual:": "50 MP, f/2.0, (wide) 2 MP, f/2.4, (depth)"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, aluminum frame",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "8000 mAh",
+    "Charging:": "80W wired 50W wireless, 28% in 15 min 5W reverse wired Reverse wireless"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1B colors, 120Hz, HDR Vivid, 5000 nits (peak)",
+    "Size:": "6.55 inches, 105.4 cm2 (~90.3% screen-to-body ratio)",
+    "Resolution:": "1264 x 2736 pixels, 19.5:9 ratio (~460 ppi density)",
+    "Protection:": "Aluminosilicate glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16, MagicOS 10",
+    "Chipset:": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+    "CPU:": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+    "GPU:": "Adreno 830",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB / 1TB",
+    "RAM:": "12/16 GB",
+    "Variant:": "12GB 256GB / 12GB 512GB / 16GB 512GB / 16GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive",
+    "GPS:": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, ultrasonic), accelerometer, gyro, proximity, compass"
+  }
+}
