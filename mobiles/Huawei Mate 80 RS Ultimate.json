@@ -1,0 +1,68 @@
+{
+  "title": "Huawei Mate 80 RS Ultimate",
+  "brand": "Huawei",
+  "category": "Smartphones",
+  "added_on": "17th, Nov, 2025",
+  "status": "COMING SOON",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP 48 MP 40 MP",
+    "Features:": "HDR, panorama",
+    "Video:": "4K, 1080p",
+    "Single:": "13 MP, f/2.4, 18mm (ultrawide) TOF 3D, (depth/biometrics sensor)"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, titanium alloy frame",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others:": "IP68/IP69 dust/water resistant (up to 6m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5700 mAh"
+  },
+  "Display": {
+    "Type:": "Dual-layer LTPO OLED, 1B colors, 120Hz, 3500 nits (peak)",
+    "Size:": "6.9 inches, 117.4 cm2 (~89.7% screen-to-body ratio)",
+    "Resolution:": "1316 x 2832 pixels, 19.5:9 ratio (~453 ppi density)",
+    "Protection:": "Huawei Kunlun Glass (basalt tempered)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 4.3",
+    "Chipset:": "-",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "512 GB / 1TB",
+    "RAM:": "16 GB",
+    "Variant:": "16GB 512GB / 16GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No High-definition audio High & low frequency separate speakers"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.2, A2DP, LE, L2HC",
+    "GPS:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+    "Sensors:": "Face ID, fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass, color spectrum BDS Satellite Calling and Message Ultra Wideband (UWB) support"
+  }
+}
