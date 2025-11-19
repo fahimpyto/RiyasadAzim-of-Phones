@@ -1,0 +1,64 @@
+{
+  "title": "HMD Terra M",
+  "brand": "HMD",
+  "category": "Feature phones",
+  "added_on": "19th, Nov, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, November 18",
+  "expected_release": "2025, November",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "No"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "Dust protected and splash resistant"
+  },
+  "Battery": {
+    "Type:": "Removable Li-Ion",
+    "Capacity:": "1000 mAh",
+    "Talk time:": "6.5 hours with dual SIM 4G"
+  },
+  "Display": {
+    "Type:": "TFT",
+    "Size:": "2.8 inches, 12.4 cm2 (~20.9% screen-to-body ratio)",
+    "Resolution:": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 900 / 1800",
+    "3G bands:": "HSDPA 2100",
+    "4G bands:": "1, 3, 5, 8, 28, 38, 39, 40, 41",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "Chipset:": "Unisoc 8910 FF-S",
+    "Card slot:": "microSDHC",
+    "Phonebook:": "Yes",
+    "Call records:": "Yes",
+    "Internal:": "24 MB",
+    "RAM:": "-"
+  },
+  "Multimedia": {
+    "Alert types:": "Vibration, Ringtones",
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "4.2",
+    "GPS:": "No",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C",
+    "Messaging:": "SMS",
+    "Games:": "Yes",
+    "Java:": "No MP3 player"
+  }
+}
