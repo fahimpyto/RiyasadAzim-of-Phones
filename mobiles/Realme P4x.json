@@ -1,0 +1,68 @@
+{
+  "title": "Realme P4x",
+  "brand": "Realme",
+  "category": "Smartphones",
+  "added_on": "22nd, Nov, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP 2 MP",
+    "Features:": "Panorama",
+    "Video:": "1080p@30fps",
+    "Single:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, aluminum frame, plastic back or silicone polymer back (eco leather)",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min) MIL-STD-810H compliant* * does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 950 nits (peak)",
+    "Size:": "6.72 inches",
+    "Resolution:": "1080 x 2400 pixels",
+    "Protection:": "ArmorShell glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 28, 40, 41",
+    "5G bands:": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Mediatek Dimensity 6400 (6 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "128GB",
+    "RAM:": "6/8 GB",
+    "Variant:": "6GB 128GB / 8GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No 24-bit/192kHz Hi-Res audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.3, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, QZSS, BDS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  }
+}
