@@ -1,0 +1,66 @@
+{
+  "title": "Samsung Galaxy F08",
+  "brand": "Samsung",
+  "category": "Smartphones",
+  "added_on": "24th, Nov, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP 2 MP",
+    "Features:": "LED flash",
+    "Video:": "Yes",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh"
+  },
+  "Display": {
+    "Type:": "PLS LCD, 90Hz",
+    "Size:": "6.7 inches",
+    "Resolution:": "720 x 1600 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15, up to 6 major Android upgrades, One UI 7",
+    "Chipset:": "Mediatek Helio G99 (6 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "64 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 64GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.3, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity"
+  }
+}

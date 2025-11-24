@@ -1,0 +1,64 @@
+{
+  "title": "Xiaomi Black Shark Pad 7",
+  "brand": "Xiaomi",
+  "category": "Tablets",
+  "added_on": "24th, Nov, 2025",
+  "status": "Not available",
+  "announced_date": "2025, October 30",
+  "expected_release": "2025, October 30",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2499900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP",
+    "Features:": "LED flash",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "505 g (1.11 lb)",
+    "Build:": "Glass front, aluminum back, aluminum frame",
+    "SIM:": "Nano-SIM (cellular model only)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "7700 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz, 420 nits",
+    "Size:": "11.0 inches, 352.4 cm2",
+    "Resolution:": "1200 x 1900 pixels, 16:10 ratio (~204 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA 850 / 900 / 2100 - cellular model only",
+    "4G bands:": "LTE - cellular model only",
+    "Speed:": "HSPA, LTE - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Helio G88 (12 nm)",
+    "CPU:": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "GPU:": "Mali-G52 MC2",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "128 GB",
+    "RAM:": "6/8 GB",
+    "Variant:": "6GB128GB / 8GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS - cellular model only",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C",
+    "Sensors:": "Accelerometer"
+  }
+}

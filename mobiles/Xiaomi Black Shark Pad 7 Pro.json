@@ -1,0 +1,65 @@
+{
+  "title": "Xiaomi Black Shark Pad 7 Pro",
+  "brand": "Xiaomi",
+  "category": "Tablets",
+  "added_on": "24th, Nov, 2025",
+  "status": "AVAILABLE",
+  "announced_date": "2025, October 30",
+  "expected_release": "2025, October 30",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 3000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "13 MP 2 MP",
+    "Features:": "LED flash",
+    "Video:": "1080p@30fps",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "513 g (1.13 lb)",
+    "Build:": "Glass front, aluminum back, aluminum frame",
+    "SIM:": "Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "8800 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 420 nits",
+    "Size:": "11.0 inches, 352.4 cm2",
+    "Resolution:": "1200 x 1900 pixels, 16:10 ratio (~204 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA 850 / 900 / 2100 - cellular model only",
+    "4G bands:": "LTE - cellular model only",
+    "Speed:": "HSPA, LTE - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Helio G100 (6 nm)",
+    "CPU:": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MC2",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C, magnetic accessory connector pins",
+    "Sensors:": "Accelerometer"
+  }
+}
