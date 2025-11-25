@@ -1,0 +1,60 @@
+{
+  "title": "Xiaomi Black Shark GS3 Ultra",
+  "brand": "Xiaomi",
+  "category": "Smart watches",
+  "added_on": "25th, Nov, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, November 21",
+  "expected_release": "2025, December",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Gorilla Glass), aluminum frame",
+    "SIM:": "No",
+    "Others:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min) MIL-STD-810H compliant Waterproof (5ATM)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "-"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1000 nits",
+    "Size:": "1.43 inches",
+    "Resolution:": "466 x 466 pixels (~326 ppi density)",
+    "Protection:": "Corning Gorilla Glass"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "-",
+    "Card slot:": "No",
+    "Phonebook:": "No",
+    "Call records:": "Yes"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.3, Yes, LE",
+    "GPS:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "Unspecified",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, gyro, compass, barometer, heart rate, SpO2",
+    "Messaging:": "SMS(threaded view), Email, IM",
+    "Browser:": "No",
+    "Games:": "No"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "title": "Huawei Mate X7",
+  "brand": "Huawei",
+  "category": "Smartphones",
+  "added_on": "25th, Nov, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, November 25",
+  "expected_release": "2025, November 26",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 26000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Triple:": "50 MP, f/1.4-f/4.0, 24mm (wide), PDAF, OIS* 50 MP, f/2.2, 81mm (periscope telephoto), PDAF, OIS, 3.5x optical zoom 40 MP, f/2.2, 13mm, 120˚ (ultrawide), PDAF *1/1.28\" sensor size for 256GB / 512GB 12GB RAM models 1/1.56\" sensor size for 512GB/1TB 16/20GB RAM models",
+    "Features:": "HDR, panorama",
+    "Video:": "4K, 1080p",
+    "Single:": "8 MP, f/2.2, (wide) Cover camera: 8 MP, f/2.4, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "Unfolded: 156.8 x 144.2 x 4.5 mm Folded: 156.8 x 73.8 x 9.5 mm",
+    "Weight:": "235 g (8.29 oz)",
+    "Build:": "Glass front, nylon fiber or silicone polymer back (eco leather), aluminum frame",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP58/IP59 dust protected and water resistant (high pressure water jets; immersible up to 2m for 30 min) Aerospace-grade aluminum"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5525 mAh",
+    "Charging:": "66W wired 50W wireless 7.5W reverse wireless 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "Foldable LTPO OLED, 1B colors, 120Hz, 1440Hz PWM, HDR Vivid, 2500 nits (peak)",
+    "Size:": "8.0 inches, 205.6 cm2 (~90.9% screen-to-body ratio)",
+    "Resolution:": "2210 x 2416 pixels (~409 ppi density)",
+    "Features:": "Cover display: LTPO OLED, 120Hz, 1440Hz PWM, HDR, 3000 nits (peak), 6.49 inches, 1080 x 2444 pixels, Kunlun Glass 2"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.0",
+    "Chipset:": "Kirin 9030 Pro",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512GB, 1TB",
+    "RAM:": "12/16/20 GB",
+    "Variant:": "12GB 256GB / 12GB 512GB / 16GB 512GB / 16GB 1TB / 20GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC",
+    "GPS:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer BDS Satellite and Messaging - China only"
+  }
+}
