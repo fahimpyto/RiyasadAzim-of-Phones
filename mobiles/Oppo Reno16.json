@@ -1,0 +1,68 @@
+{
+  "title": "Oppo Reno16",
+  "brand": "Oppo",
+  "category": "Smartphones",
+  "added_on": "30th, Nov, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "200 MP 50 MP 50 MP",
+    "Features:": "Panorama, HDR",
+    "Video:": "4K@30/60fps, 1080p@30/60fps, gyro-EIS, HDR",
+    "Single:": "50 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, aluminum alloy frame, glass back",
+    "SIM:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6200 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1B colors, 120Hz, 3840Hz PWM, HDR10+, 600 nits (typ), 1800 nits (HBM), 3600 nits (peak)",
+    "Size:": "6.32 inches",
+    "Resolution:": "1216 x 2640 pixels",
+    "Protection:": "Reinforced glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 - International HSDPA 850 / 900 / 2100 - China",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "Chipset:": "Mediatek Dimensity 8450 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB / 1TB",
+    "RAM:": "12/16 GB",
+    "Variant:": "12GB 256GB / 16GB 256GB / 12GB 512GB / 16GB 512GB / 16GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  }
+}
