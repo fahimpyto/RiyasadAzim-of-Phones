@@ -1,0 +1,64 @@
+{
+  "title": "Honor Play 60A",
+  "brand": "Honor",
+  "category": "Smartphones",
+  "added_on": "1st, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "13 MP 2 MP",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps",
+    "Single:": "5 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5200 mAh"
+  },
+  "Display": {
+    "Type:": "TFT LCD capacitive touchscreen, 16M colors",
+    "Size:": "6.56 inches, 103.4 cm2 (~84.3% screen-to-body ratio)",
+    "Resolution:": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800",
+    "3G bands:": "HSDPA 850 / 900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE (unspecified)",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA 42.2/5.76 Mbps, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Qualcomm SM4350-AC Snapdragon 480+ 5G (8 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128/256 GB",
+    "RAM:": "6/8 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes 24-bit/192kHz audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.1, A2DP, LE, aptX HD",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}
