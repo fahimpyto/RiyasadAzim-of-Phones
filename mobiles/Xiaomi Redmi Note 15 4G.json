@@ -1,0 +1,66 @@
+{
+  "title": "Xiaomi Redmi Note 15 4G",
+  "brand": "Xiaomi",
+  "category": "Smartphones",
+  "added_on": "2nd, Dec, 2025",
+  "status": "AVAILABLE",
+  "announced_date": "2025, December 02",
+  "expected_release": "2025, December 02",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 3000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "108 MP, (wide), PDAF Auxiliary lens",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "1080p@30fps",
+    "Single:": "20 MP, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh",
+    "Charging:": "33W wired"
+  },
+  "Display": {
+    "Type:": "AMOLED, 120Hz",
+    "Size:": "6.77 inches, 110.9 cm2",
+    "Resolution:": "1080 x 2392 pixels (~388 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE-A"
+  },
+  "Hardware": {
+    "OS:": "Android 15, HyperOS 2",
+    "Chipset:": "Mediatek Helio G100 Ultra (6 nm)",
+    "CPU:": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MC2",
+    "Card slot:": "No",
+    "Internal:": "128 GB",
+    "RAM:": "6 GB",
+    "Variant:": "6GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.1, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, QZSS, BDS",
+    "NFC:": "Yes",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass, proximity"
+  }
+}

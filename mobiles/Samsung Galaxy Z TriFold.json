@@ -1,0 +1,69 @@
+{
+  "title": "Samsung Galaxy Z TriFold",
+  "brand": "Samsung",
+  "category": "Smartphones",
+  "added_on": "2nd, Dec, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, December 02",
+  "expected_release": "2025, December 12",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 30000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Triple:": "200 MP, f/1.7, 24mm (wide), 1/1.3\", 0.6µm, multi-directional PDAF, OIS 10 MP, f/2.4, 67mm (telephoto), 1/3.94\", 1.0µm, PDAF, OIS, 3x optical zoom 12 MP, f/2.2, 13mm, 120˚ (ultrawide), 1/2.55\", 1.4µm, dual pixel PDAF",
+    "Features:": "HDR",
+    "Video:": "4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+    "Single:": "10 MP, f/2.2, 18mm (ultrawide), 1/3.0\", 1.12µm Cover camera: 10 MP, f/2.2, 24mm (wide), 1/3.0\", 1.12µm"
+  },
+  "Design": {
+    "Dimensions:": "Unfolded: 159.2 x 214.1 x 3.9-4.2 mm Folded: 159.2 x 75 x 12.9 mm",
+    "Weight:": "309 g (10.90 oz)",
+    "Build:": "Glass front (Gorilla Glass Victus Ceramic 2) (folded), plastic front (unfolded), ceramic-glass fiber-reinforced polymer back, aluminum frame, titanium hinge housing",
+    "SIM:": "Nano-SIM + Nano-SIM + eSIM + eSIM (max 2 at a time) Nano-SIM + Nano-SIM + multiple eSIM (max 2 at a time) Nano-SIM + Nano-SIM",
+    "Others:": "IP48 dust and water resistant (dust > 1mm; immersible up to 1.5m for 30 min) Advanced Armor aluminum frame"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5600 mAh",
+    "Charging:": "45W wired, QC2.0, 50% in 30 min 15W wireless 4.5W reverse wireless"
+  },
+  "Display": {
+    "Type:": "Tri-foldable Dynamic LTPO AMOLED 2X, 120Hz, HDR, 1600 nits (peak)",
+    "Size:": "10.0 inches, 305.4 cm2 (~89.6% screen-to-body ratio)",
+    "Resolution:": "1584 x 2160 pixels, 4:3 ratio (~269 ppi density)",
+    "Features:": "Dynamic LTPO AMOLED 2X, 120Hz, HDR, 2600 nits (peak), Corning Gorilla Glass Ceramic 2 6.5 inches, 1080 x 2520 pixels, 422 ppi"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16, One UI 8",
+    "Chipset:": "Qualcomm SM8750-AC Snapdragon 8 Elite (3 nm)",
+    "CPU:": "Octa-core (2x4.47 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+    "GPU:": "Adreno 830 (1200 MHz)",
+    "Card slot:": "No",
+    "Internal:": "512 GB / 1TB",
+    "RAM:": "16 GB",
+    "Variant:": "16GB 512GB / 16GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass, barometer Samsung DeX wireless (desktop experience support)"
+  }
+}
