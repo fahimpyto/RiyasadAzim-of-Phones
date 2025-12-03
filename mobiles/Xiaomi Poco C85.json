@@ -1,0 +1,65 @@
+{
+  "title": "Xiaomi Poco C85",
+  "brand": "Xiaomi",
+  "category": "Smartphones",
+  "added_on": "3rd, Dec, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, December 03",
+  "expected_release": "2025, December",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP Auxiliary lens",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps",
+    "Single:": "13 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh",
+    "Charging:": "33W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 450 nits (typ), 810 nits (HBM)",
+    "Size:": "6.9 inches",
+    "Resolution:": "720 x 1690 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 20, 28, 38, 40, 41, 66",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Dimensity 6300",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "128/256 GB",
+    "RAM:": "4/8 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "Yes (market/region dependent)",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, compass"
+  }
+}

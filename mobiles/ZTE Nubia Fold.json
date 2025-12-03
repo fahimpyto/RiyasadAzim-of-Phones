@@ -1,0 +1,68 @@
+{
+  "title": "ZTE Nubia Fold",
+  "brand": "ZTE",
+  "category": "Smartphones",
+  "added_on": "2nd, Dec, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, December 02",
+  "expected_release": "2025, December 04",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 15000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Triple:": "50 MP, (wide), PDAF, OIS 50 MP, (telephoto), PDAF, OIS, optical zoom 5 MP, (ultrawide)",
+    "Features:": "HDR",
+    "Video:": "4K@30fps, 1080p@30fps, gyro-EIS",
+    "Single:": "20 MP, f/2.2, (wide) Cover camera: 20 MP, f/2.2, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "Unfolded: 160 x 144 x 5.4 mm Folded: 160 x 73 x 11.1 mm",
+    "Weight:": "249 g (8.78 oz)",
+    "SIM:": "Nano-SIM + Nano-SIM + eSIM (max 2 at a time)",
+    "Others:": "IP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6560 mAh",
+    "Charging:": "55W wired, PD, PPS, 100% in 70 min"
+  },
+  "Display": {
+    "Type:": "OLED, 120Hz",
+    "Size:": "8.0 inches, 205.0 cm2 (~89.0% screen-to-body ratio)",
+    "Resolution:": "2200 x 2480 pixels (~414 ppi density)",
+    "Features:": "Cover display: OLED, 120Hz 6.43 inches, 1172 x 2748 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+    "CPU:": "Octa-core (2x4.32 GHz Oryon V2 Phoenix L + 6x3.53 GHz Oryon V2 Phoenix M)",
+    "GPU:": "Adreno 830",
+    "Card slot:": "No",
+    "Internal:": "256 GB",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "6.0, A2DP, LE",
+    "GPS:": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  }
+}

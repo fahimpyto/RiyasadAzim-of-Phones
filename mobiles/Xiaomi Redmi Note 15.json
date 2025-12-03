@@ -1,0 +1,69 @@
+{
+  "title": "Xiaomi Redmi Note 15",
+  "brand": "Xiaomi",
+  "category": "Smartphones",
+  "added_on": "2nd, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 4500000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Triple:": "108 MP, f/1.7, 24mm (wide), 1/1.67\", 0.64µm, PDAF, OIS 8 MP, f/2.2, 16mm (ultrawide), 1/4.4\", 1.0µm 2 MP (macro)",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "1080p@30/60fps",
+    "Single:": "20 MP, f/2.2, 21mm (wide), 1/4.0\", 0.7µm"
+  },
+  "Design": {
+    "Dimensions:": "164 x 75.4 x 7.4 mm (6.46 x 2.97 x 0.29 in)",
+    "Weight:": "178 g (6.28 oz)",
+    "Build:": "Glass front (Gorilla Glass), plastic back, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5520 mAh",
+    "Charging:": "45W wired"
+  },
+  "Display": {
+    "Type:": "AMOLED, 68B colors, 120Hz, PWM, HDR10+, 3200 nits (peak)",
+    "Size:": "6.83 inches, 112.6 cm2 (~91.1% screen-to-body ratio)",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~385 ppi density)",
+    "Protection:": "Corning Gorilla Glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15, HyperOS 2",
+    "Chipset:": "Qualcomm SM6475-AB Snapdragon 6 Gen 3 (4 nm)",
+    "CPU:": "Octa-core (4x2.4 GHz Cortex-A78 & 4x1.8 GHz Cortex-A55)",
+    "GPU:": "Adreno 710",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "3.5mm jack:": "Yes 24-bit/192kHz Hi-Res audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS, GLONASS, BDS, GALILEO",
+    "NFC:": "Yes (market/region dependent)",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass Virtual proximity sensing"
+  }
+}
