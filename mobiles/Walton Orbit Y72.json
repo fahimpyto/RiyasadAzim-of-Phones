@@ -1,0 +1,66 @@
+{
+  "title": "Walton Orbit Y72",
+  "brand": "Walton",
+  "category": "Smartphones",
+  "added_on": "10th, Dec, 2025",
+  "status": "Not available",
+  "announced_date": "2025, December",
+  "expected_release": "2025, December",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1099900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "50 MP, f/2.2 VGA",
+    "Features:": "Normal, portrait, video, filter",
+    "Video:": "1080p",
+    "Single:": "5 MP, f/2.2"
+  },
+  "Design": {
+    "Dimensions:": "169 x 78.2 x 8.8 mm",
+    "Weight:": "210g (with battery)",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by 4G VoLTE)",
+    "Others:": "IP64 Dust and Water Resistance"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS INCELL technology, 90Hz",
+    "Size:": "6.8 inches, 17.27cm",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio",
+    "Protection:": "Panda glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "UTMS 900 / 2100",
+    "4G bands:": "LTE-FDD 850 / 900 / 1800 / 2100 LTE-TDD 2300 / 2500 / 2600",
+    "Speed:": "HSPA+, 4G LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15 (Go edition)",
+    "Chipset:": "-",
+    "CPU:": "Octa-core (1.6 GHz)",
+    "GPU:": "PowerVR GE8322",
+    "Card slot:": "microSD, up to 256 GB",
+    "Internal:": "64 GB",
+    "RAM:": "4+4 GB (Rapid memory)",
+    "Variant:": "4GB 64GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n, WiFi Direct, hotspot",
+    "Bluetooth:": "Yes, v5.0",
+    "GPS:": "Yes, with A-GPS",
+    "NFC:": "No",
+    "FM radio:": "FM radio, recording",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, gravity"
+  }
+}

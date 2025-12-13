@@ -1,0 +1,67 @@
+{
+  "title": "Lava Play Max",
+  "brand": "Lava",
+  "category": "Smartphones",
+  "added_on": "9th, Dec, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, December 09",
+  "expected_release": "2025, December",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "50 MP, (wide), PDAF secondary unspecified camera",
+    "Features:": "LED flash",
+    "Video:": "1080p@30fps",
+    "Single:": "8 MP, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP54 dust protected and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "33W wired, 100% in 83 min"
+  },
+  "Display": {
+    "Type:": "LCD, 120Hz",
+    "Size:": "6.72 inches, 109.0 cm2",
+    "Resolution:": "1080 x 2400 pixels, 20:9 ratio (~392 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Dimensity 7300 (4 nm)",
+    "CPU:": "Octa-core (4x2.5 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G615 MC2",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "128 GB UFS 3.1",
+    "RAM:": "6/8 GB",
+    "Variant:": "6GB 128GB / 8GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n/ac/6, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors"
+  }
+}

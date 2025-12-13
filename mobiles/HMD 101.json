@@ -1,0 +1,59 @@
+{
+  "title": "HMD 101",
+  "brand": "HMD",
+  "category": "Feature phones",
+  "added_on": "10th, Dec, 2025",
+  "status": "AVAILABLE",
+  "announced_date": "2025, December",
+  "expected_release": "2025, December",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 200000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "No"
+  },
+  "Design": {
+    "Dimensions:": "114.3 x 50 x 14.3 mm (4.5 x 1.97 x 0.56 in)",
+    "Weight:": "73 g (2.57 oz)",
+    "SIM:": "Mini-SIM + Mini-SIM"
+  },
+  "Battery": {
+    "Type:": "Removable Li-Ion",
+    "Capacity:": "1000 mAh"
+  },
+  "Display": {
+    "Type:": "TFT",
+    "Size:": "1.77 inches, 9.9 cm2 (~17.3% screen-to-body ratio)",
+    "Resolution:": "128 x 160 pixels (~116 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 900 / 1800",
+    "GPRS:": "Yes",
+    "EDGE:": "Yes"
+  },
+  "Hardware": {
+    "Chipset:": "Unisoc 6533G",
+    "Card slot:": "microSDHC",
+    "Phonebook:": "Yes",
+    "Call records:": "Yes",
+    "Internal:": "4 MB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "No",
+    "GPS:": "No",
+    "NFC:": "No",
+    "FM radio:": "Wireless FM radio",
+    "USB:": "microUSB",
+    "Messaging:": "SMS",
+    "Games:": "Yes",
+    "Java:": "No MP3 player"
+  }
+}
