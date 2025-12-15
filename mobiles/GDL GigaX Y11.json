@@ -1,0 +1,65 @@
+{
+  "title": "GDL GigaX Y11",
+  "brand": "GDL",
+  "category": "Smartphones",
+  "added_on": "14th, Dec, 2025",
+  "status": "Not available",
+  "announced_date": "2025, November",
+  "expected_release": "2025, November",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 799000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "13 MP XX MP, (macro)",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "1080p@30fps",
+    "Single:": "5 MP"
+  },
+  "Design": {
+    "Dimensions:": "167.7 x 77.5 x 8.86 mm",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz, 400 Nits",
+    "Size:": "6.74 inches",
+    "Resolution:": "720 x 1600 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE B1 / B3 / B8 / B28 / B38 / B40 / B41",
+    "Speed:": "HSPA+/LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15 (Go edition)",
+    "Chipset:": "Unisoc T603 (12 nm)",
+    "CPU:": "1.8 GHz",
+    "GPU:": "-",
+    "Card slot:": "microSD",
+    "Internal:": "64 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 64GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity"
+  }
+}
