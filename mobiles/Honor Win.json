@@ -1,0 +1,65 @@
+{
+  "title": "Honor Win",
+  "brand": "Honor",
+  "category": "Smartphones",
+  "added_on": "17th, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "8 MP",
+    "Features:": "LED flash, panorama, HDR",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others:": "Waterproof"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6600 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1B colors, 120Hz, 3000 (peak)",
+    "Size:": "6.78 inches",
+    "Resolution:": "1224 x 2700 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 CDMA 800",
+    "3G bands:": "HSDPA 850 / 900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm SM6450 Snapdragon 6 Gen 1 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128/256/512GB",
+    "RAM:": "8/12 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB / 12GB 256GB / 12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.1, A2DP, LE, aptX HD",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity (ultrasound), compass"
+  }
+}
