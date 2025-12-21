@@ -1,0 +1,67 @@
+{
+  "title": "Honor Magic8 RSR Porsche Design",
+  "brand": "Honor",
+  "category": "Smartphones",
+  "added_on": "21st, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP 180 MP 50 MP",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "4K@30/60fps, 1080p@30/60fps, gyro-EIS",
+    "Single:": "50 MP TOF 3D"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Giant Rhino glass), glass back, titanium frame",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5850 mAh"
+  },
+  "Display": {
+    "Type:": "LTPO OLED, 1B colors, 120Hz, Dolby Vision, HDR, 1600 nits (HBM), 5000 nits (peak)",
+    "Size:": "6.8 inches",
+    "Resolution:": "1280 x 2800 pixels",
+    "Protection:": "Giant rhino glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Qualcomm SM8750-AB Snapdragon 8 Elite (3 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "512GB / 1 TB",
+    "RAM:": "16/24 GB",
+    "Variant:": "16GB 512GB / 24GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD",
+    "GPS:": "GPS (L1+L5), GLONASS, BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+    "NFC:": "Yes, HCE, NFC-SIM",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.2, DisplayPort 1.2, OTG",
+    "Sensors:": "Fingerprint (under display, optical), Face ID, accelerometer, gyro, proximity, compass, color spectrum"
+  }
+}

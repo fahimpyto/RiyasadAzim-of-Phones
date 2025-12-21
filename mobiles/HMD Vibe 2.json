@@ -1,0 +1,66 @@
+{
+  "title": "HMD Vibe 2",
+  "brand": "HMD",
+  "category": "Smartphones",
+  "added_on": "21st, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP, (wide) 2 MP, (depth)",
+    "Features:": "LED flash, HDR",
+    "Video:": "Yes",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic frame, plastic back",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "5000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz",
+    "Size:": "6.67 inches",
+    "Resolution:": "720 x 1604 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 1700(AWS) / 1900",
+    "4G bands:": "1, 3, 5, 8, 28, 40, 41",
+    "5G bands:": "1, 3, 5, 8, 28, 40, 41, 77, 78 SA/NSA",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Unisoc T760 (6 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC",
+    "Internal:": "128 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with dual speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GLONASS",
+    "NFC:": "No",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity"
+  }
+}

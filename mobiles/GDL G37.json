@@ -1,0 +1,61 @@
+{
+  "title": "GDL G37",
+  "brand": "GDL",
+  "category": "Feature phones",
+  "added_on": "16th, Dec, 2025",
+  "status": "Not available",
+  "announced_date": "2025, December",
+  "expected_release": "2025, December",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 139000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "No"
+  },
+  "Design": {
+    "Dimensions:": "126.5 x 52 x 13.6 mm",
+    "Weight:": "-",
+    "Build:": "Plastic body",
+    "SIM:": "Dual SIM"
+  },
+  "Battery": {
+    "Type:": "Removable Li-Ion",
+    "Capacity:": "3000mAh"
+  },
+  "Display": {
+    "Type:": "QQVGA",
+    "Size:": "2.4 inches",
+    "Resolution:": "240 x 320 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 900/1800MHz"
+  },
+  "Hardware": {
+    "OS:": "Feature phone",
+    "Chipset:": "Mediatek",
+    "Card slot:": "microSD, Up to 32GB",
+    "Phonebook:": "Yes, 1000 Contacts",
+    "Call records:": "Yes",
+    "Internal:": "32 MB",
+    "RAM:": "32 MB",
+    "Variant:": "32MB 32MB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "Yes",
+    "GPS:": "No",
+    "NFC:": "No",
+    "FM radio:": "Wireless FM radio",
+    "USB:": "microUSB",
+    "Messaging:": "SMS",
+    "Browser:": "Yes",
+    "Java:": "No"
+  }
+}
