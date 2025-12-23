@@ -1,0 +1,68 @@
+{
+  "title": "Huawei MatePad 11.5 (2026)",
+  "brand": "Huawei",
+  "category": "Tablets",
+  "added_on": "23rd, Dec, 2025",
+  "status": "COMING SOON",
+  "announced_date": "2025, December 22",
+  "expected_release": "2025, December 25",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 4000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "8 MP, f/2.0, 105˚ (ultrawide)",
+    "Features:": "Panorama",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "262.6 x 177.5 x 6.1 mm (10.34 x 6.99 x 0.24 in)",
+    "Weight:": "515 g (1.14 lb)",
+    "Build:": "Glass front, aluminum frame, aluminum back",
+    "SIM:": "No",
+    "Others:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "10100 mAh",
+    "Charging:": "40W wired 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "TFT LCD, 120Hz, 600 nits (peak)",
+    "Size:": "11.5 inches, 390.2 cm2 (~83.7% screen-to-body ratio)",
+    "Resolution:": "1600 x 2456 pixels, 3:2 ratio (~256 ppi density)",
+    "Features:": "Optional PaperMatte Edition display"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "Speed:": "No",
+    "GPRS:": "No",
+    "EDGE:": "No"
+  },
+  "Hardware": {
+    "OS:": "Harmony OS 5.1",
+    "Chipset:": "Kirin T82B",
+    "CPU:": "12-core (2x2.29 GHz & 6x2.05 GHz & 4x1.31 GHz)",
+    "GPU:": "Maleoon 920c",
+    "Card slot:": "No",
+    "Internal:": "128/256 GB",
+    "RAM:": "8/12 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB / 12GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.0, OTG, magnetic accessory connector",
+    "Sensors:": "Accelerometer, proximity (accessories only)"
+  }
+}

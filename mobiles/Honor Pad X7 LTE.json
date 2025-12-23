@@ -1,0 +1,64 @@
+{
+  "title": "Honor Pad X7 LTE",
+  "brand": "Honor",
+  "category": "Tablets",
+  "added_on": "23rd, Dec, 2025",
+  "status": "Not available",
+  "announced_date": "2025, December",
+  "expected_release": "2025, December",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2299900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP, f/2.2",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "211.8 x 124.8 x 8 mm (8.34 x 4.91 x 0.31 in)",
+    "Weight:": "365 g (12.87 oz)",
+    "Build:": "Glass front, aluminum frame, aluminum back",
+    "SIM:": "No"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "7020 mAh",
+    "Charging:": "10W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz, 500 nits, 625 nits (HBM)",
+    "Size:": "8.7 inches, 214.9 cm2 (~81.3% screen-to-body ratio)",
+    "Resolution:": "800 x 1340 pixels, 5:3 ratio (~179 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15, MagicOS 9",
+    "Chipset:": "Qualcomm SM6225 Snapdragon 680 (6 nm)",
+    "CPU:": "Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)",
+    "GPU:": "Adreno 610",
+    "Card slot:": "No",
+    "Internal:": "128 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No 24-bit/192kHz Hi-Res & Hi-Res Wireless audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.0, A2DP, LE",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Accelerometer Circle to Search"
+  }
+}
