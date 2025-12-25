@@ -1,0 +1,64 @@
+{
+  "title": "Xiaomi Poco C81",
+  "brand": "Xiaomi",
+  "category": "Smartphones",
+  "added_on": "25th, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "8 MP",
+    "Features:": "LED flash, HDR",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "Dust and splash resistant"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5200 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 600 nits",
+    "Size:": "6.88 inches",
+    "Resolution:": "720 x 1640 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 28, 40, 41",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Unisoc T7250 (12 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "64/128 GB eMMC 5.1",
+    "RAM:": "4/6 GB",
+    "Variant:": "4GB 64GB / 6GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, compass"
+  }
+}

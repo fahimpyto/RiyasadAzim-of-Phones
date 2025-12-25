@@ -1,0 +1,67 @@
+{
+  "title": "Walton NEXG N76",
+  "brand": "Walton",
+  "category": "Smartphones",
+  "added_on": "25th, Dec, 2025",
+  "status": "Not available",
+  "announced_date": "2025, December 25",
+  "expected_release": "2025, December 25",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1449900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "52 MP, f/2.2 VGA",
+    "Features:": "Photo, Portrait, Video, Beauty, Filter",
+    "Video:": "1080p@30fps",
+    "Single:": "8 MP, f/2.0"
+  },
+  "Design": {
+    "Dimensions:": "171.6 x 77.9 x 8.7 mm",
+    "Weight:": "190 g",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by 4G VoLTE)",
+    "Others:": "IP64 Dust and water resistance"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh",
+    "Charging:": "18W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, HD+, 120Hz, 700 nits",
+    "Size:": "6.9 inch, 17.5 cm (~90% screen-to-body ratio)",
+    "Resolution:": "720 x 1640 pixels, 20:9",
+    "Features:": "240Hz Touch sampling rate"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "UTMS 900 / 2100",
+    "4G bands:": "LTE-FDD 700 / 900 / 1800 / 2100 LTE-TDD 2300 / 2500 / 2600",
+    "Speed:": "HSPA+, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Unisoc T7250",
+    "CPU:": "Octa-core (1.8 GHz & ARM cortex- A75)",
+    "GPU:": "Mali-G57 MP1, 850MHz",
+    "Card slot:": "microSD, up to 1TB",
+    "Internal:": "128 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n, dual-band, WiFi Direct, hotspot",
+    "Bluetooth:": "Yes, v5.0",
+    "GPS:": "GPS with A-GPS",
+    "NFC:": "No",
+    "FM radio:": "FM radio, recording",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}
