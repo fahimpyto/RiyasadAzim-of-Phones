@@ -1,0 +1,67 @@
+{
+  "title": "Tecno Pova Curve 2",
+  "brand": "Tecno",
+  "category": "Smartphones",
+  "added_on": "26th, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "64 MP 2 MP",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "4K@30fps, 1080p@30fps",
+    "Single:": "13 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Gorilla Glass 7i), plastic frame, plastic back",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5500 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 144Hz, 2304Hz PWM, 1300 nits (peak)",
+    "Size:": "6.78 inches",
+    "Resolution:": "1080 x 2436 pixels",
+    "Protection:": "Corning Gorilla Glass 7i"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Dimensity 7300 Ultimate (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128 GB",
+    "RAM:": "6/8 GB",
+    "Variant:": "6GB 128GB / 8GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (with Dolby Atmos)",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS",
+    "NFC:": "Yes",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+  }
+}

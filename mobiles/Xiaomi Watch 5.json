@@ -1,0 +1,58 @@
+{
+  "title": "Xiaomi Watch 5",
+  "brand": "Xiaomi",
+  "category": "Smart watches",
+  "added_on": "26th, Dec, 2025",
+  "status": "AVAILABLE",
+  "announced_date": "2025, December 26",
+  "expected_release": "2025, December 26",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 3500000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "47 x 47 x 12.3 mm (1.85 x 1.85 x 0.48 in)",
+    "Weight:": "56 g (1.98 oz)",
+    "Build:": "Sapphire crystal front, stainless steel frame (316L)",
+    "SIM:": "eSIM (market/region dependent) - cellular model only",
+    "Others:": "Waterproof (5ATM) ECG certified"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "930 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1500 nits (HBM)",
+    "Size:": "1.54 inches",
+    "Resolution:": "480 x 480 pixels (~312 ppi density)",
+    "Protection:": "Sapphire Glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - cellular model only",
+    "3G bands:": "HSDPA - cellular model only",
+    "4G bands:": "LTE - cellular model only",
+    "Speed:": "HSPA, LTE - cellular model only"
+  },
+  "Hardware": {
+    "OS:": "HyperOS 3",
+    "Chipset:": "Qualcomm Snapdragon W5 Gen 1 (4 nm)",
+    "CPU:": "Dual-core",
+    "Card slot:": "No"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes, 2.4 GHz",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, QZSS",
+    "NFC:": "Yes (market/region dependent)",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, gyro, compass, barometer, heart rate, SpO2, EMG"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Apple iPhone Air 2",
+  "brand": "Apple",
+  "category": "Smartphones",
+  "added_on": "26th, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "18 MP SL 3D",
+    "Features:": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+    "Video:": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, gyro-EIS"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Ceramic Shield 2), titanium frame (grade 5), glass back (Ceramic Shield)",
+    "SIM:": "eSIM",
+    "Others:": "IP68 dust tight and water resistant (immersible up to 6m for 30 min) Apple Pay (Visa, MasterCard, AMEX certified)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "3149 mAh"
+  },
+  "Display": {
+    "Type:": "LTPO Super Retina XDR OLED, 120Hz, HDR10, Dolby Vision, 1000 nits (typ), 1600 nits (HBM), 3000 nits (peak)",
+    "Size:": "6.5 inches",
+    "Resolution:": "1260 x 2736 pixels",
+    "Protection:": "Ceramic Shield 2, Mohs level 5",
+    "Features:": "Anti-reflective coating"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / EVDO / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1xEV-DO",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66 - A3517 1, 2, 3, 4, 5, 7, 8, 12, 13, 14, 17, 18, 19, 20, 25, 26, 28, 29, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66, 71 - A3260 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 66 - A3518",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3517 1, 2, 3, 5, 7, 8, 12, 14, 20, 25, 26, 28, 29, 30, 38, 40, 41, 48, 53, 66, 70, 71, 75, 77, 78, 79 SA/NSA/Sub6 - A3260 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 66, 70, 75, 77, 78, 79 SA/NSA/Sub6 - A3518",
+    "Speed:": "HSPA, LTE, 5G, EV-DO Rev.A 3.1 Mbps"
+  },
+  "Hardware": {
+    "OS:": "iOS 26",
+    "Chipset:": "Apple A19 Pro (3 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB / 1TB",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 256GB / 12GB 512GB / 12GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, hotspot",
+    "Bluetooth:": "6.0, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS, QZSS, BDS, NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Face ID, accelerometer, gyro, proximity, compass, barometer Ultra Wideband (UWB) support (gen2 chip) Emergency SOS, Messages and Find My via satellite"
+  }
+}
