@@ -1,0 +1,64 @@
+{
+  "title": "Tecno Spark Go 3",
+  "brand": "Tecno",
+  "category": "Smartphones",
+  "added_on": "29th, Dec, 2025",
+  "status": "Not available",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "8 MP",
+    "Features:": "Dual-LED flash",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.67 inches",
+    "Resolution:": "720 x 1600 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Unisoc T7250 (12 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC",
+    "Internal:": "64/128/256 GB",
+    "RAM:": "3/4 GB",
+    "Variant:": "3GB 64GB / 4GB 64GB / 3GB 128GB / 4GB 128GB / 4GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with dual speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "title": "Tecno Pop 20",
+  "brand": "Tecno",
+  "category": "Smartphones",
+  "added_on": "29th, Dec, 2025",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "13 MP 2 MP",
+    "Features:": "Dual-LED flash",
+    "Video:": "Yes",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Dual SIM (Micro-SIM, dual stand-by)",
+    "Others:": "IP54, dust and splash resistant"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.6 inches, 104.6 cm2 (~82.4% screen-to-body ratio)",
+    "Resolution:": "720 x 1612 pixels, 20:9 ratio (~267 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Dimensity 6300 (6 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC",
+    "Internal:": "64/128 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 64GB / 4GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with dual speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS",
+    "NFC:": "Yes",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C",
+    "Sensors:": "Fingerprint (side-mounted); unspecified sensors"
+  }
+}
