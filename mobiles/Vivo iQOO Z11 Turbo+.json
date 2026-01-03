@@ -1,0 +1,66 @@
+{
+  "title": "Vivo iQOO Z11 Turbo+",
+  "brand": "Vivo",
+  "category": "Smartphones",
+  "added_on": "3rd, Jan, 2026",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP 8 MP",
+    "Features:": "Color spectrum sensor, LED flash, HDR, panorama",
+    "Video:": "1080p@30fps, gyro-EIS",
+    "Single:": "16 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "8000 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1B colors, 144Hz, HDR, 4320Hz PWM, 2000 nits (HBM), 5500 nits (peak)",
+    "Size:": "6.78 inches",
+    "Resolution:": "1260 x 2800 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 19, 28, 34, 38, 39, 40, 41, 42, 48",
+    "5G bands:": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41, 48, 77, 78 SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Mediatek Dimensity 9400+ (3 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB UFS 4.1",
+    "RAM:": "12/16 GB",
+    "Variant:": "12GB 256GB / 16GB 256GB / 12GB 512GB / 16GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, LHDC 5",
+    "GPS:": "GPS (L1+L5), BDS (B1I+B1C+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  }
+}
