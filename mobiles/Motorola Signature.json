@@ -1,0 +1,68 @@
+{
+  "title": "Motorola Signature",
+  "brand": "Motorola",
+  "category": "Smartphones",
+  "added_on": "4th, Jan, 2026",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP 50 MP 50 MP",
+    "Features:": "HDR",
+    "Video:": "4K@30/60fps, 1080p@30/60/120fps, HDR",
+    "Single:": "50 MP"
+  },
+  "Design": {
+    "Dimensions:": "162.1 x 76.4 x 6.99 mm",
+    "Weight:": "186 grams",
+    "Build:": "Glass front (Gorilla Glass Victus), wooden back or silicone polymer back (eco leather), aluminum frame",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others:": "IP68/IP69 dust and water resistance"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5200 mAh",
+    "Charging:": "90W wired"
+  },
+  "Display": {
+    "Type:": "LTPO OLED, 1B colors, 165Hz, 6200 nits",
+    "Size:": "6.78 inches",
+    "Resolution:": "1220 x 2712 pixels",
+    "Protection:": "Gorilla Glass Victus 2"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 CDMA 800",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE (CA), 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Qualcomm Snapdragon 8 Gen 5",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB / 1TB",
+    "RAM:": "12/16 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No Snapdragon Sound"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.1 Gen2, OTG, DisplayPort 1.4",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "title": "Vivo Y31D",
+  "brand": "Vivo",
+  "category": "Smartphones",
+  "added_on": "4th, Jan, 2026",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP 2 MP",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others:": "IP69 dust tight and water resistant"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "7200 mAh",
+    "Charging:": "44W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 1250 nits",
+    "Size:": "6.75 inches",
+    "Resolution:": "1080 x 2400 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2 CDMA 800",
+    "3G bands:": "HSDPA 850 / 900 / 2100 CDMA2000 1x",
+    "4G bands:": "1, 3, 5, 8, 28, 34, 38, 39, 40, 41",
+    "5G bands:": "1, 5, 8, 28, 41, 77, 78 SA/NSA",
+    "Speed:": "HSPA 42.2/5.76 Mbps, LTE-A, 5G",
+    "GPRS:": "Yes",
+    "EDGE:": "Yes"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Qualcomm Snapdragon 6s Gen 2 (6nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (dedicated)",
+    "Internal:": "128 GB",
+    "RAM:": "6/8 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct, hotspot",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, USB On-The-Go",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}

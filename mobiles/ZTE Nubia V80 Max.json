@@ -1,0 +1,66 @@
+{
+  "title": "ZTE Nubia V80 Max",
+  "brand": "ZTE",
+  "category": "Smartphones",
+  "added_on": "4th, Jan, 2026",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "108 MP Auxiliary lenses",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "1080p@30fps",
+    "Single:": "16 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 1000 nits (HBM)",
+    "Size:": "6.75 inches",
+    "Resolution:": "900 x 1940 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Unisoc T7280 (12 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC",
+    "Internal:": "256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GALILEO, GLONASS",
+    "NFC:": "Unspecified",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}
