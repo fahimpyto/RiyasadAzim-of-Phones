@@ -1,0 +1,53 @@
+{
+  "title": "Motorola Moto Watch",
+  "brand": "Motorola",
+  "category": "Smart watches",
+  "added_on": "7th, Jan, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, January 07",
+  "expected_release": "2026, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2200000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "47 x 47 x 12 mm (1.85 x 1.85 x 0.47 in)",
+    "Weight:": "35 g (1.23 oz)",
+    "SIM:": "No",
+    "Others:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) 5 ATM (immersible up to 50m for 10 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "-"
+  },
+  "Display": {
+    "Type:": "OLED",
+    "Size:": "1.43 inches",
+    "Resolution:": "464 x 464 pixels* (~317 ppi density)",
+    "Features:": "* Display resolution is not officially revealed"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "Unspecified",
+    "Card slot:": "No",
+    "Internal:": "Unspecified storage"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.3, A2DP, LE",
+    "GPS:": "GPS (L1+L5)",
+    "NFC:": "Unspecified",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, SpO2, compass"
+  }
+}
