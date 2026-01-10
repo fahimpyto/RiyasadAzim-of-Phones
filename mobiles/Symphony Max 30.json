@@ -1,0 +1,65 @@
+{
+  "title": "Symphony Max 30",
+  "brand": "Symphony",
+  "category": "Smartphones",
+  "added_on": "10th, Jan, 2026",
+  "status": "COMING SOON",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "13 MP 2 MP",
+    "Features:": "AI, portrait, night mode, pro mode, panorama, intelligent scanning, time laps",
+    "Video:": "1080p@30fps",
+    "Single:": "5 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Plastic body, glass front",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, HD+, 16.7M colors",
+    "Size:": "6.75 inchs",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA+, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "SC9863A",
+    "CPU:": "-",
+    "GPU:": "PowerVR GE8322",
+    "Card slot:": "microSD, up to 256 GB",
+    "Internal:": "64 GB",
+    "RAM:": "3 GB",
+    "Variant:": "3GB 64GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n, hotspot",
+    "Bluetooth:": "Yes",
+    "GPS:": "Yes, with A-GPS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "miceoUSB 2.0",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gravity, proximity, light"
+  }
+}
