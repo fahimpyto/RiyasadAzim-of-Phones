@@ -1,0 +1,66 @@
+{
+  "title": "HTC Wildfire E7 Life",
+  "brand": "HTC",
+  "category": "Smartphones",
+  "added_on": "11th, Jan, 2026",
+  "status": "Not available",
+  "announced_date": "2025, January 10",
+  "expected_release": "2025, January 10",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1299900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "50 MP 0.08 MP",
+    "Features:": "Photo, Night, Portrait, Video, Live photo",
+    "Video:": "Yes",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "172.1 x 78.9 x 9.25 mm",
+    "Weight:": "-",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired"
+  },
+  "Display": {
+    "Type:": "LCD, HD+, 120Hz, 480 nits",
+    "Size:": "6.74 inches",
+    "Resolution:": "720 x 1600 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Unisoc T615",
+    "CPU:": "Octa-core (2×1.8 GHz & 6×1.6 GHz)",
+    "GPU:": "-",
+    "Card slot:": "microSDXC",
+    "Internal:": "128 GB",
+    "RAM:": "6 GB",
+    "Variant:": "6GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes, v5.2",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C, 2.0, OTG",
+    "Sensors:": "Accelerometer"
+  }
+}
