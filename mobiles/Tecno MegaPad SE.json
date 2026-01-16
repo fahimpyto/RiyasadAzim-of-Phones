@@ -1,0 +1,63 @@
+{
+  "title": "Tecno MegaPad SE",
+  "brand": "Tecno",
+  "category": "Tablets",
+  "added_on": "16th, Jan, 2026",
+  "status": "Not available",
+  "announced_date": "2026, January 16",
+  "expected_release": "2026, January 16",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2099900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP, f/2.2",
+    "Features:": "AI beauty, HDR, 88° wide",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "7 mm thickness",
+    "Build:": "Metal",
+    "SIM:": "No"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "8000 mAh",
+    "Charging:": "18W wired",
+    "Music play:": "148 hours"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz, 450 nits",
+    "Size:": "11.0 inches (~83% screen-to-body ratio)",
+    "Resolution:": "1920 x 1200 pixels"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Qualcomm Snapdragon (6 nm)",
+    "CPU:": "Octa-core (4x Cortex-A73 & 4x Cortex-A53)",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "128/256 GB",
+    "RAM:": "4/8 GB",
+    "Variant:": "4GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers, Dolby Atmos (4 speakers)",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "Yes, v5.1",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C",
+    "Sensors:": "Accelerometer"
+  }
+}

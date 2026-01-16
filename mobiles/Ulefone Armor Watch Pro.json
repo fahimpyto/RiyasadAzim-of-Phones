@@ -1,0 +1,55 @@
+{
+  "title": "Ulefone Armor Watch Pro",
+  "brand": "Ulefone",
+  "category": "Smart watches",
+  "added_on": "16th, Jan, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, January",
+  "expected_release": "2026, January",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1500000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "48 x 48 x 12.6 mm (1.89 x 1.89 x 0.50 in)",
+    "Weight:": "42 g (1.48 oz)",
+    "SIM:": "No",
+    "Others:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min) MIL-STD-810H compliant Waterproof (5ATM)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "410 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 550 nits",
+    "Size:": "1.5 inches",
+    "Resolution:": "466 x 466 pixels (~320 ppi density)",
+    "Protection:": "Corning Gorilla Glass 3"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "-",
+    "Card slot:": "No"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.3",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, compass, heart rate, SpO2",
+    "Messaging:": "SMS(threaded view), Email, IM",
+    "Games:": "No",
+    "Java:": "No"
+  }
+}
