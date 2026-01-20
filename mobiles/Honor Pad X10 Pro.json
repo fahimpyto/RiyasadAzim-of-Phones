@@ -1,0 +1,60 @@
+{
+  "title": "Honor Pad X10 Pro",
+  "brand": "Honor",
+  "category": "Tablets",
+  "added_on": "20th, Jan, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, January",
+  "expected_release": "2026, January",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 3000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP, f/2.2",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "267.3 x 167.4 x 6.77 mm",
+    "Weight:": "475g (including battery)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "8300 mAh",
+    "Charging:": "35W wired"
+  },
+  "Display": {
+    "Type:": "LCD, 120Hz, 400nit",
+    "Size:": "11.5 inches, (~86% screen-to-body ratio)",
+    "Resolution:": "1504 x 2508 pixels, 16:10 ratio (~255 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "Android 15, MagicOS 9.0",
+    "Chipset:": "Qualcomm SM6225 Snapdragon 685 (6 nm)",
+    "CPU:": "Octa-core (4xCortex-A73 2.8GHz & 4xCortex-A53 1.9GHz)",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128/256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.1, BLE, SBC, AAC, LDAC",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Accelerometer"
+  }
+}

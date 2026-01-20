@@ -1,0 +1,60 @@
+{
+  "title": "Honor Watch GS 5",
+  "brand": "Honor",
+  "category": "Smart watches",
+  "added_on": "20th, Jan, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, January 19",
+  "expected_release": "2026, January 23",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1500000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "44 x 44 x 9.9 mm (1.73 x 1.73 x 0.39 in)",
+    "Weight:": "26 g (0.92 oz)",
+    "Build:": "Glass front, polymer fiber frame, polymer fiber back, aluminum alloy bezel",
+    "SIM:": "No",
+    "Others:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) 5 ATM water resistant Compatible with standard 22mm straps"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "495 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1500 nits (peak)",
+    "Size:": "1.32 inches",
+    "Resolution:": "466 x 466 pixels (~352 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "Speed:": "No",
+    "GPRS:": "No",
+    "EDGE:": "No"
+  },
+  "Hardware": {
+    "OS:": "MagicOS 9",
+    "Chipset:": "-",
+    "Internal:": "4 GB",
+    "RAM:": "32 MB",
+    "Variant:": "32MB 4GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.4, LE, EDR",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, gyro, heart rate, barometer, compass, SpO2"
+  }
+}
