@@ -1,0 +1,57 @@
+{
+  "title": "HMD Watch X1",
+  "brand": "HMD",
+  "category": "Smart watches",
+  "added_on": "27th, Jan, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, January 26",
+  "expected_release": "2026, January 26",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "46.5 x 46.5 x 11 mm (1.83 x 1.83 x 0.43 in)",
+    "Weight:": "55.6 g (1.98 oz)",
+    "Build:": "High-density metal frame",
+    "SIM:": "No",
+    "Others:": "IP68 dust tight and water resistant (immersible up to 1.5m for 30 min) Compatible with standard 22mm straps"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "-",
+    "Charging:": "Wired"
+  },
+  "Display": {
+    "Type:": "AMOLED",
+    "Size:": "1.43 inches",
+    "Resolution:": "466 x 466 pixels (~326 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "GPRS:": "No",
+    "EDGE:": "No"
+  },
+  "Hardware": {
+    "OS:": "RTOS OS",
+    "Card slot:": "No"
+  },
+  "Multimedia": {
+    "Alert types:": "Vibration, Ringtones",
+    "Loudspeaker:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "Yes",
+    "GPS:": "No",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2"
+  }
+}

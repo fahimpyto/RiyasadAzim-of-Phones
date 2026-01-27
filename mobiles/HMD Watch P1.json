@@ -1,0 +1,56 @@
+{
+  "title": "HMD Watch P1",
+  "brand": "HMD",
+  "category": "Smart watches",
+  "added_on": "27th, Jan, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, January 26",
+  "expected_release": "2026, January 26",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "45.5 x 37.9 x 11.2 mm (1.79 x 1.49 x 0.44 in)",
+    "Weight:": "40 g (1.41 oz)",
+    "SIM:": "No",
+    "Others:": "IP67 dust tight and water resistant (immersible up to 1m for 30 min) Compatible with standard 22mm straps"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "-"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 550 nits",
+    "Size:": "1.83 inches",
+    "Resolution:": "240 x 284 pixels (~203 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "GPRS:": "No",
+    "EDGE:": "No"
+  },
+  "Hardware": {
+    "OS:": "RTOS OS",
+    "Card slot:": "No"
+  },
+  "Multimedia": {
+    "Alert types:": "Vibration, Ringtones",
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "Yes",
+    "GPS:": "No",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2"
+  }
+}
