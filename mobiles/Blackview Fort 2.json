@@ -1,0 +1,66 @@
+{
+  "title": "Blackview Fort 2",
+  "brand": "Blackview",
+  "category": "Smartphones",
+  "added_on": "28th, Jan, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2025",
+  "expected_release": "2025",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2800000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "13 MP, f/2.2, (wide), 1/4.0\"",
+    "Features:": "LED flash",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "174.6 x 83 x 10.7 mm (6.87 x 3.27 x 0.42 in)",
+    "Weight:": "245.3 g (8.64 oz)",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min) MIL-STD-810H compliant"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "18W wired 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz, 450 nits",
+    "Size:": "6.56 inches, 103.4 cm2 (~71.3% screen-to-body ratio)",
+    "Resolution:": "720 x 1612 pixels, 20:9 ratio (~269 ppi density)",
+    "Protection:": "Mohs level 5"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 900 / 2100",
+    "4G bands:": "1, 3, 7, 8, 19, 20, 28, 40, 41",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15, DokeOS 5.0",
+    "Chipset:": "Mediatek Helio G81 (12 nm)",
+    "CPU:": "Octa-core (2x2.0 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)",
+    "GPU:": "Mali-G52 MC2",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "128/256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.0, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "Yes",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  }
+}
