@@ -1,0 +1,68 @@
+{
+  "title": "Oppo K14x",
+  "brand": "Oppo",
+  "category": "Smartphones",
+  "added_on": "2nd, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP, f/1.8, (wide), PDAF Auxiliary lens",
+    "Features:": "Panorama",
+    "Video:": "1080p@30fps",
+    "Single:": "5 MP, f/2.2, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "166.6 x 78.5 x 8.6 mm (6.56 x 3.09 x 0.34 in)",
+    "Weight:": "212 g (7.48 oz)",
+    "Build:": "Glass front, plastic frame, plastic back",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh",
+    "Charging:": "Wired 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 1125 nits (peak)",
+    "Size:": "6.75 inches, 111.4 cm2 (~85.2% screen-to-body ratio)",
+    "Resolution:": "720 x 1570 pixels, 19.5:9 ratio (~256 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15, ColorOS 15",
+    "Chipset:": "Mediatek Dimensity 6300 (6 nm)",
+    "CPU:": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MC2",
+    "Card slot:": "microSDXC",
+    "Internal:": "128/256 GB UFS 2.2",
+    "RAM:": "4/6/8 GB",
+    "Variant:": "4GB 128GB / 6GB 128GB / 8GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "Yes (market/region dependent)",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}

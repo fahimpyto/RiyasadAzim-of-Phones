@@ -1,0 +1,68 @@
+{
+  "title": "Oukitel RT10 Industry",
+  "brand": "Oukitel",
+  "category": "Tablets",
+  "added_on": "2nd, Feb, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2025, September 29",
+  "expected_release": "2025, September 29",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 12500000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Triple:": "64 MP (wide), 1/2.0\", PDAF 20 MP (night vision), 1/2.78\", AF 5 MP (macro)",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "1080p@30fps",
+    "Single:": "32 MP (wide), 1/2.8\""
+  },
+  "Design": {
+    "Dimensions:": "266.5 x 178 x 22.5 mm (10.49 x 7.01 x 0.89 in)",
+    "Weight:": "1280 g (2.82 lb)",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min) MIL-STD-810H compliant Aluminum titanium alloy Flashlight (flood light) 2D barcode scanner (Zebra SE4710) Industrial fingerprint collector (FAP10) Industrial interface (12 PogoPins，USB-A，RS232 port，RJ45)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "25000 mAh",
+    "Charging:": "33W wired 10W reverse wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 500 nits",
+    "Size:": "11.0 inches, 350.9 cm2 (~74.0% screen-to-body ratio)",
+    "Resolution:": "1200 x 1920 pixels, 16:10 ratio (~206 ppi density)",
+    "Protection:": "Corning Gorilla Glass 5, Mohs level 5"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 66, 71",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 20, 25, 28, 38, 40, 41, 66, 71, 77, 78, 79 SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "Mediatek Dimensity 7400X (4 nm)",
+    "CPU:": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G615 MC2",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "512 GB",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE",
+    "GPS:": "GPS (L1+L5), GLONASS, GALILEO, BDS",
+    "NFC:": "Yes",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  }
+}
