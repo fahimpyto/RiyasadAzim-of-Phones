@@ -1,0 +1,55 @@
+{
+  "title": "Cubot Beatbox",
+  "brand": "Cubot",
+  "category": "Smart watches",
+  "added_on": "3rd, Feb, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, February",
+  "expected_release": "2026, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "52.5 x 52.5 x 13.1 mm (2.07 x 2.07 x 0.52 in)",
+    "Weight:": "64.9 g (2.29 oz)",
+    "SIM:": "No",
+    "Others:": "Waterproof (1ATM)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "730 mAh"
+  },
+  "Display": {
+    "Type:": "TFT LCD",
+    "Size:": "1.65 inches",
+    "Resolution:": "360 x 360 pixels (~309 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "Proprietary OS",
+    "Chipset:": "-",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.4, A2DP",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, heart rate"
+  }
+}

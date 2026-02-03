@@ -1,0 +1,56 @@
+{
+  "title": "Cubot GT5",
+  "brand": "Cubot",
+  "category": "Smart watches",
+  "added_on": "3rd, Feb, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, February",
+  "expected_release": "2026, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "49.5 x 49.5 x 13.7 mm (1.95 x 1.95 x 0.54 in)",
+    "Weight:": "77 g (2.72 oz)",
+    "SIM:": "No",
+    "Others:": "Waterproof (5ATM)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "500 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED",
+    "Size:": "1.43 inches",
+    "Resolution:": "466 x 466 pixels (~461 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "Proprietary OS",
+    "Chipset:": "-",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "6.0, A2DP, LE",
+    "GPS:": "GPS (L1+L5)",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2, barometer, compass"
+  }
+}
