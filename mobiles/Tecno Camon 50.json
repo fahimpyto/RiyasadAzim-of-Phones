@@ -1,0 +1,66 @@
+{
+  "title": "Tecno Camon 50",
+  "brand": "Tecno",
+  "category": "Smartphones",
+  "added_on": "4th, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, February 02",
+  "expected_release": "2026, February 15",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 3800000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "50 MP 8 MP",
+    "Features:": "Dual-LED flash, HDR, panorama",
+    "Video:": "Yes",
+    "Single:": "32 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP66 dust tight and water resistant (high pressure water jets)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5200 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 120Hz",
+    "Size:": "6.78 inches",
+    "Resolution:": "1080 x 2436 pixels",
+    "Protection:": "Panda King Glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Mediatek Helio G100 Ultimate (6 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "Unspecified",
+    "Internal:": "128/256 GB",
+    "RAM:": "8/12 GB",
+    "Variant:": "8GB 128GB / 12GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with dual speakers",
+    "3.5mm jack:": "Unspecified"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS",
+    "NFC:": "Yes",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass Circle to Search"
+  }
+}
