@@ -1,0 +1,68 @@
+{
+  "title": "Google Pixel 10a",
+  "brand": "Google",
+  "category": "Smartphones",
+  "added_on": "5th, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, February 05",
+  "expected_release": "2026, February 18",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 6500000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "48 MP 13 MP",
+    "Features:": "Auto-HDR, panorama",
+    "Video:": "4K@30/60fps, 1080p@30/60fps",
+    "Single:": "12 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Gorilla Glass Victus 2), glass back (Gorilla Glass Victus 2), aluminum frame",
+    "SIM:": "Nano-SIM and/or eSIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5200 mAh",
+    "Charging:": "20W wired 7.5W wireless"
+  },
+  "Display": {
+    "Type:": "OLED, 120Hz, HDR10+, 1800 nits (HBM), 2700 nits (peak)",
+    "Size:": "6.3 inches",
+    "Resolution:": "1080 x 2424 pixels",
+    "Protection:": "Corning Gorilla Glass Victus 2"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6/mmWave SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE-A (CA), 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Google Tensor G4 (4 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128/256 GB",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 128GB / 12GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6e/7, tri-band, Wi-Fi Direct",
+    "Bluetooth:": "5.3, A2DP, LE, aptX HD",
+    "GPS:": "GPS (L1+L5), GLONASS (G1), GALILEO (E1+E5a), QZSS (L1+L5)",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.2",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass, barometer"
+  }
+}
