@@ -1,0 +1,58 @@
+{
+  "title": "Doogee Anywise W1 Pro",
+  "brand": "Doogee",
+  "category": "Smart watches",
+  "added_on": "6th, Feb, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, February",
+  "expected_release": "2026, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2200000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "47.5 x 47.5 x 13.7 mm (1.87 x 1.87 x 0.54 in)",
+    "Weight:": "72 g (2.54 oz)",
+    "SIM:": "No",
+    "Others:": "Waterproof (5ATM)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "550 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED",
+    "Size:": "1.43 inches",
+    "Resolution:": "466 x 466 pixels (~461 ppi density)",
+    "Protection:": "Panda Glass"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "Proprietary OS",
+    "Chipset:": "-",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "2 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.3, A2DP, LE",
+    "GPS:": "GPS (L1+L5), GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2, barometer, compass"
+  }
+}
