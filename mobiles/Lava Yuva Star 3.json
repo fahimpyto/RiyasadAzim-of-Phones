@@ -1,0 +1,63 @@
+{
+  "title": "Lava Yuva Star 3",
+  "brand": "Lava",
+  "category": "Smartphones",
+  "added_on": "8th, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, February 08",
+  "expected_release": "2026, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1200000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "164.9 x 76.1 x 8.5 mm",
+    "Weight:": "193.7g",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD capacitive touchscreen, 16M colors",
+    "Size:": "6.75 inches, 110.0 cm2 (~87.6% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 900 / 1800",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15 (Go edition)",
+    "Chipset:": "Unisco 9863a",
+    "CPU:": "Octa-core",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "64 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 64GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n/ac",
+    "Bluetooth:": "4.2, A2DP",
+    "GPS:": "GPS, GLONASS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer"
+  }
+}
