@@ -1,0 +1,67 @@
+{
+  "title": "Walton XANON X50",
+  "brand": "Walton",
+  "category": "Smartphones",
+  "added_on": "9th, Feb, 2026",
+  "status": "Not available",
+  "announced_date": "2026, February 09",
+  "expected_release": "2026, February 09",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 3099900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "64 MP, f/1.8 8 MP 0.08 MP",
+    "Features:": "Face Detection, Digital Zoom (2.0x), HDR, Grid Line, Watermark (Frame & Regular), Camera Mute, Touch Shooting, Self-Timer, Grid Line, Volume Key Function, Anti Flicker, Mirror",
+    "Video:": "1080p@30fps",
+    "Single:": "32 MP, f/2.2"
+  },
+  "Design": {
+    "Dimensions:": "162.2 x 76.7 x 7.8 mm",
+    "Weight:": "196g (with battery)",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by 4G VoLTE, VoWIFI)",
+    "Others:": "IP68 Waterproof Rating Test, Shock Test, Temperature Shock Test, Drop Test, Vibration Test"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6300 mAh",
+    "Charging:": "33W wired"
+  },
+  "Display": {
+    "Type:": "AMOLED, 120Hz, 1000 nits",
+    "Size:": "6.7 inches, 17.02cm (~93% screen-to-body ratio)",
+    "Resolution:": "1080 x 2400 pixels",
+    "Protection:": "Panda MN228 Glass Protection & Mohs level 6"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 - SIM 1 & SIM 2",
+    "3G bands:": "UMTS 900 / 2100",
+    "4G bands:": "LTE-FDD 700 / 900 / 1800 / 2100 LTE-TDD 2300 /2500 / 2600",
+    "Speed:": "HSPA+, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16, Dido OS",
+    "Chipset:": "MediaTek Helio G100",
+    "CPU:": "Octa-core (2x2.2 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU:": "ARM Mali-G57 MC2",
+    "Card slot:": "microSD, up to 1TB",
+    "Internal:": "256GB UFS 2.2",
+    "RAM:": "16 GB",
+    "Variant:": "16GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n, dual-band, WiFi Direct, hotspot",
+    "Bluetooth:": "Yes, v5.2",
+    "GPS:": "Yes, GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (under display), accelerometer, proximity, compass, gravity, gyroscope, geomagnetic"
+  }
+}
