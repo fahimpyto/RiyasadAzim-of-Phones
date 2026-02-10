@@ -1,0 +1,63 @@
+{
+  "title": "Nokia 110 Power",
+  "brand": "Nokia",
+  "category": "Feature phones",
+  "added_on": "10th, Feb, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, February",
+  "expected_release": "2026, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 300000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "No",
+    "Video:": "No"
+  },
+  "Design": {
+    "Dimensions:": "117.7 x 50 x 14.2 mm (4.63 x 1.97 x 0.56 in)",
+    "Weight:": "88 g (3.10 oz)",
+    "SIM:": "Dual SIM (Mini-SIM, dual stand-by)"
+  },
+  "Battery": {
+    "Type:": "Removable Li-Ion",
+    "Capacity:": "1750 mAh"
+  },
+  "Display": {
+    "Type:": "TFT",
+    "Size:": "2.0 inches, 12.4 cm2 (~21.0% screen-to-body ratio)",
+    "Resolution:": "120 x 160 pixels, 4:3 ratio (~100 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM",
+    "2G bands:": "GSM 900 / 1800",
+    "GPRS:": "Yes",
+    "EDGE:": "Yes"
+  },
+  "Hardware": {
+    "OS:": "Feature Phone",
+    "Chipset:": "-",
+    "Card slot:": "microSDHC",
+    "Phonebook:": "Yes",
+    "Call records:": "Yes",
+    "Internal:": "4 MB",
+    "RAM:": "4 MB"
+  },
+  "Multimedia": {
+    "Alert types:": "Vibration, Ringtones",
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "No",
+    "GPS:": "No",
+    "NFC:": "No",
+    "FM radio:": "Wireless FM radio",
+    "USB:": "microUSB",
+    "Messaging:": "SMS",
+    "Games:": "Yes",
+    "Java:": "No MP3 player"
+  }
+}
