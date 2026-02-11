@@ -1,0 +1,65 @@
+{
+  "title": "Honor X6d",
+  "brand": "Honor",
+  "category": "Smartphones",
+  "added_on": "11th, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP, f/2.2, (wide)",
+    "Features:": "LED flash",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "167 x 77 x 7.9 mm (6.57 x 3.03 x 0.31 in)",
+    "Weight:": "186 g (6.56 oz)",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5260 mAh",
+    "Charging:": "15W wired 2.5W reverse wired"
+  },
+  "Display": {
+    "Type:": "TFT LCD, 90Hz",
+    "Size:": "6.75 inches, 110.0 cm2 (~85.5% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15, Magic OS 9",
+    "Chipset:": "Mediatek Dimensity 6300 (6 nm)",
+    "CPU:": "Octa-core (2x2.4 GHz Cortex-A76 & 6x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MC2",
+    "Card slot:": "No",
+    "Internal:": "256 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.3, A2DP, LE, aptX HD",
+    "GPS:": "GPS, GALILEO, GLONASS, BDS, QZSS",
+    "NFC:": "Unspecified",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Accelerometer, proximity, compass"
+  }
+}
