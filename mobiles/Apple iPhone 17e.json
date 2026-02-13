@@ -1,0 +1,67 @@
+{
+  "title": "Apple iPhone 17e",
+  "brand": "Apple",
+  "category": "Smartphones",
+  "added_on": "9th, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 11000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "18 MP multi-aspect, f/1.9, 20mm (ultrawide), PDAF SL 3D, (depth/biometrics sensor)",
+    "Features:": "HDR, Dolby Vision HDR, 3D (spatial) audio, stereo sound rec.",
+    "Video:": "4K@24/25/30/60fps, 1080p@25/30/60/120fps, HDR"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Ceramic Shield), glass back, aluminum frame",
+    "SIM:": "Nano-SIM + eSIM + eSIM (max 2 at a time; International) eSIM + eSIM (8 or more, max 2 at a time; USA) Nano-SIM + Nano-SIM (China)",
+    "Others:": "IP68 dust tight and water resistant (immersible up to 6m for 30 min) Apple Pay (Visa, MasterCard, AMEX certified)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Ion",
+    "Capacity:": "Wired, 50% in 30 min 25W wireless MagSafe"
+  },
+  "Display": {
+    "Type:": "Super Retina XDR OLED, HDR10, 800 nits (HBM), 1200 nits (peak)",
+    "Size:": "6.1 inches, 91.4 cm2 (~87.1% screen-to-body ratio)",
+    "Resolution:": "1170 x 2532 pixels, 19.5:9 ratio (~457 ppi density)",
+    "Protection:": "Ceramic Shield glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA/Sub6",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "iOS 26.3",
+    "Chipset:": "Apple A19 (3 nm)",
+    "CPU:": "Hexa-core",
+    "GPU:": "Apple GPU (4-core graphics)",
+    "Card slot:": "No",
+    "Internal:": "128/256/512 GB NVMe",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB / 8GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, hotspot",
+    "Bluetooth:": "5.3, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, QZSS, NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Face ID, accelerometer, gyro, proximity, compass, barometer Emergency SOS, Messages and Find My via satellite"
+  }
+}
