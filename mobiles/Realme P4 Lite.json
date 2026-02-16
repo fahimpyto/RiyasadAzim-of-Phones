@@ -1,0 +1,67 @@
+{
+  "title": "Realme P4 Lite",
+  "brand": "Realme",
+  "category": "Smartphones",
+  "added_on": "16th, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "5 MP, 27mm (wide)",
+    "Features:": "LED flash, panorama",
+    "Video:": "720p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "167.2 x 76.6 x 7.9 mm (6.58 x 3.02 x 0.31 in)",
+    "Weight:": "-",
+    "Build:": "Glass front (Panda Glass), plastic frame, plastic back",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP54 dust protected and water resistant (water splashes) MIL-STD-810H compliant* * does not guarantee ruggedness or use in extreme conditionsc"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6300 mAh",
+    "Charging:": "15W wired 6W reverse wired"
+  },
+  "Display": {
+    "Type:": "LCD, 90Hz, 563 nits",
+    "Size:": "6.74 inches, 109.7 cm2 (~85.6% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)",
+    "Protection:": "Panda Glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "1, 3, 5, 28, 38, 40, 41",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15, Realme UI 5.0",
+    "Chipset:": "Unisoc T7250 (12 nm)",
+    "CPU:": "Octa-core (2x1.8 GHz Cortex-A75 & 6x1.6 GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MP1",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "64/128 GB",
+    "RAM:": "4/6 GB",
+    "Variant:": "4GB 64GB / 6GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity, compass"
+  }
+}
