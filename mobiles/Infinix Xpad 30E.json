@@ -1,0 +1,64 @@
+{
+  "title": "Infinix Xpad 30E",
+  "brand": "Infinix",
+  "category": "Tablets",
+  "added_on": "19th, Feb, 2026",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "8 MP",
+    "Features:": "LED flash, panorama",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "7000 mAh",
+    "Charging:": "18W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz",
+    "Size:": "11.0 inches",
+    "Resolution:": "1200 x 1920 pixels, 16:10 ratio"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 25, 26, 28, 38, 41, 40, 66",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15",
+    "Chipset:": "MediaTek Helio G80",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "128 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (4 speakers)",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.2, A2DP, LE",
+    "GPS:": "GPS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Accelerometer"
+  }
+}
