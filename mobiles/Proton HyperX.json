@@ -1,0 +1,67 @@
+{
+  "title": "Proton HyperX",
+  "brand": "Proton Mobile",
+  "category": "Smartphones",
+  "added_on": "20th, Feb, 2026",
+  "status": "Not available",
+  "announced_date": "2026, February",
+  "expected_release": "2026, February",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1649900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "50 MP",
+    "Triple:": "108 MP, Sony IMX782 64MP 2MP, VGA",
+    "Features:": "Zoom, panorama, night mode, portrait",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "168.6 x 76.6 x 8.55mm",
+    "Weight:": "-",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others:": "IP64 dust and water-resistance"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh",
+    "Charging:": "33W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.78 inches (~91.6% screen-to-body ratio)",
+    "Resolution:": "720 x 1612 pixels",
+    "Protection:": "2.5D Glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "UTMS 900 / 2100",
+    "4G bands:": "LTE 700 / 900 / 850 / 1800 / 2100 TDD 2300 / 2500 / 2600",
+    "Speed:": "UTMS, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "MediaTek Helio G100",
+    "CPU:": "Octa-core (2 1.0GHz & Arm Cortex-A55)",
+    "GPU:": "ARM G57 MC2",
+    "Card slot:": "microSD",
+    "Internal:": "128 GB",
+    "RAM:": "8 GB with 8GB virtual RAM",
+    "Variant:": "8+8GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n, dual-band, Wi-Fi hotspot",
+    "Bluetooth:": "Yes",
+    "GPS:": "Yes",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, gyro, proximity"
+  }
+}
