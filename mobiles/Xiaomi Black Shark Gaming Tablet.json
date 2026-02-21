@@ -1,0 +1,62 @@
+{
+  "title": "Xiaomi Black Shark Gaming Tablet",
+  "brand": "Xiaomi",
+  "category": "Tablets",
+  "added_on": "21st, Feb, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, February 02",
+  "expected_release": "2026, February 02",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "5 MP, (wide)",
+    "Features:": "LED flash",
+    "Video:": "1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "7.7 mm thickness",
+    "Weight:": "332 g (11.71 oz)",
+    "Build:": "Glass front, aluminum alloy frame, aluminum alloy back",
+    "SIM:": "No"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "7300 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 144Hz, 600 nits (peak)",
+    "Size:": "8.8 inches, 224.5 cm2",
+    "Resolution:": "2560 x 1600 pixels, 16:10 ratio (~343 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Qualcomm SM8635 Snapdragon 8s Gen 3 (4 nm)",
+    "CPU:": "Octa-core (1x3.0 GHz Cortex-X4 & 4x2.8 GHz Cortex-A720 & 3x2.0 GHz Cortex-A520)",
+    "GPU:": "Adreno 735",
+    "Card slot:": "microSDXC",
+    "Internal:": "256 GB",
+    "RAM:": "12 GB",
+    "Variant:": "12GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "5.4, A2DP",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.1, DisplayPort",
+    "Sensors:": "Unspecified"
+  }
+}
