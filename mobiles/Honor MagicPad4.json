@@ -1,0 +1,65 @@
+{
+  "title": "Honor MagicPad4",
+  "brand": "Honor",
+  "category": "Tablets",
+  "added_on": "25th, Feb, 2026",
+  "status": "COMING SOON",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Single:": "9 MP, f/2.2",
+    "Features:": "LED flash",
+    "Video:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "273.4 x 178.8 x 4.8 mm (10.76 x 7.04 x 0.19 in)",
+    "Weight:": "450 g (0.99 lb)",
+    "SIM:": "No",
+    "Others:": "Stylus support"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "10100 mAh",
+    "Charging:": "66W wired 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "OLED, 1B colors, 165Hz, 5280Hz PWM, 2400 nits (peak)",
+    "Size:": "12.3 inches, 443.2 cm2 (~90.7% screen-to-body ratio)",
+    "Resolution:": "1920 x 3000 pixels (~290 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A",
+    "GPRS:": "No",
+    "EDGE:": "No"
+  },
+  "Hardware": {
+    "OS:": "Android 16, MagicOS 10",
+    "Chipset:": "Qualcomm SM8845 Snapdragon 8 Gen 5 (3 nm)",
+    "CPU:": "Octa-core (2x3.8 GHz Oryon V3 Phoenix L + 6x3.32 GHz Oryon V3 Phoenix M)",
+    "GPU:": "Adreno 829",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB",
+    "RAM:": "12/16 GB",
+    "Variant:": "12GB 256GB / 16GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers (8 speakers)",
+    "3.5mm jack:": "No IMAX Enhanced"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Bluetooth:": "6.0, A2DP, LE, aptX HD, aptX Adaptive, ASHA",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.2, Display Port 1.2, OTG, accessory connector pins",
+    "Sensors:": "Accelerometer, proximity (accessories only), gyro"
+  }
+}
