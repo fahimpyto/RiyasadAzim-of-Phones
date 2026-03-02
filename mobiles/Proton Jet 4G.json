@@ -1,0 +1,64 @@
+{
+  "title": "Proton Jet 4G",
+  "brand": "Proton Mobile",
+  "category": "Feature phones",
+  "added_on": "2nd, Mar, 2026",
+  "status": "Not available",
+  "announced_date": "2026, March 02",
+  "expected_release": "2026, March 02",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 189900,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "Dust protected and splash resistant"
+  },
+  "Battery": {
+    "Type:": "Removable Li-Ion",
+    "Capacity:": "2000 mAh"
+  },
+  "Display": {
+    "Type:": "TFT",
+    "Size:": "2.4 inches",
+    "Resolution:": "240 x 320 pixels"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM B2 / B3 / B5 / B8",
+    "3G bands:": "WCDMA B1 / B8",
+    "4G bands:": "LTE B1 / B3 / B5 / B8 / B38 / B40 / B41",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "-",
+    "Chipset:": "Unisoc T127",
+    "Card slot:": "microSDHC",
+    "Phonebook:": "Yes",
+    "Call records:": "Yes",
+    "Internal:": "128 MB",
+    "RAM:": "64 MB"
+  },
+  "Multimedia": {
+    "Alert types:": "Vibration, Ringtones",
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "4.2",
+    "GPS:": "No",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C",
+    "Messaging:": "SMS",
+    "Games:": "Yes",
+    "Java:": "No MP3 player"
+  }
+}
