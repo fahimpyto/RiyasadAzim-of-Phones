@@ -1,0 +1,68 @@
+{
+  "title": "Tecno Camon 50 Pro 5G",
+  "brand": "Tecno",
+  "category": "Smartphones",
+  "added_on": "11th, Mar, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, March 10",
+  "expected_release": "2026, March 10",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP, f/1.8, 23mm (wide), 1/1.56\", 1.0µm, PDAF, OIS 50 MP, f/2.4, 70mm (telephoto), AF, OIS, 3x optical zoom 8 MP, f/2.2, 14mm, 112˚ (ultrawide)",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "Yes",
+    "Single:": "50 MP, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "162.4 x 77 x 7.8 mm (6.39 x 3.03 x 0.31 in)",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min) MIL-STD-810 compliant* * does not guarantee ruggedness or use in extreme conditions"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6500 mAh",
+    "Charging:": "45W wired"
+  },
+  "Display": {
+    "Type:": "AMOLED, 144Hz",
+    "Size:": "6.78 inches, 112.1 cm2 (~89.6% screen-to-body ratio)",
+    "Resolution:": "1208 x 2644 pixels, 19.5:9 ratio (~429 ppi density)",
+    "Features:": "HDR image support"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16, up to 3 major Android upgrades, HIOS 16",
+    "Chipset:": "Mediatek Dimensity 7400 Ultimate (4 nm)",
+    "CPU:": "Octa-core (4x2.6 GHz Cortex-A78 & 4x2.0 GHz Cortex-A55)",
+    "GPU:": "Mali-G615 MC2",
+    "Card slot:": "Unspecified",
+    "Internal:": "256/512 GB",
+    "RAM:": "8/12 GB",
+    "Variant:": "8GB 256GB / 12GB 256GB / 12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No 24-bit/192kHz Hi-Res audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Yes",
+    "Bluetooth:": "Yes",
+    "GPS:": "GPS",
+    "NFC:": "Yes",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, proximity, compass"
+  }
+}
