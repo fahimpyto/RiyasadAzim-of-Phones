@@ -1,0 +1,66 @@
+{
+  "title": "Umidigi A75x",
+  "brand": "Umidigi",
+  "category": "Smartphones",
+  "added_on": "12th, Mar, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026",
+  "expected_release": "2026",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "13 MP, (wide) Auxiliary lens",
+    "Features:": "LED flash",
+    "Video:": "Yes",
+    "Single:": "5 MP, (wide)"
+  },
+  "Design": {
+    "Dimensions:": "168.3 x 78 x 8.1 mm (6.63 x 3.07 x 0.32 in)",
+    "Weight:": "190 g (6.70 oz)",
+    "Build:": "Glass front, plastic back, plastic frame",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.75 inches, 110.0 cm2 (~83.8% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 34, 39, 38, 40, 41, 66",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 16 (Go edition)",
+    "Chipset:": "Unisoc SC9863A1 (22 nm)",
+    "CPU:": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+    "GPU:": "IMG8322",
+    "Card slot:": "microSDXC (uses shared SIM slot)",
+    "Internal:": "64 GB",
+    "RAM:": "4 GB",
+    "Variant:": "4GB 64GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n",
+    "Bluetooth:": "4.2, A2DP",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}
