@@ -1,0 +1,69 @@
+{
+  "title": "Lava Bold 2",
+  "brand": "Lava",
+  "category": "Smartphones",
+  "added_on": "13th, Mar, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, March 13",
+  "expected_release": "2026, March 19",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Dual:": "50 MP, (wide) QVGA",
+    "Features:": "Night mode, HDR, Film, Portrait, Group photo, Dual-View Video, Pro Video, Sports, Pro-Mode, Panorama, UHD, Slow Motion, Time Lapse",
+    "Video:": "Yes",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "163.2 x 76.05 x 7.55 mm",
+    "Weight:": "174 g",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "33W wired, 50% in 35 min 100% in 85 min",
+    "Stand-by:": "378 hours",
+    "Talk time:": "32 hours"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz",
+    "Size:": "6.67 inches, 16.94cm (~93.28% screen-to-body ratio)",
+    "Resolution:": "1080 x 2400 pixels (~394 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "1, 3, 5, 8, 28, 40, 41",
+    "5G bands:": "1, 3, 5, 8, 28, 40, 77, 78 SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 15, up to 2 major Android upgrades",
+    "Chipset:": "MediaTek Dimensity 7060 (6 nm)",
+    "CPU:": "Octa-core (2x2.6 GHz A78 & 6x 2.0 GHz A55)",
+    "GPU:": "PowerVR IMG",
+    "Card slot:": "microSDXC up to 1TB",
+    "Internal:": "128 GB",
+    "RAM:": "6 GB",
+    "Variant:": "6GB 128GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n/ac",
+    "Bluetooth:": "5.2, A2DP",
+    "GPS:": "GPS, GLONASS",
+    "NFC:": "No",
+    "FM radio:": "Unspecified",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, gyroscope"
+  }
+}
