@@ -1,0 +1,66 @@
+{
+  "title": "IKKO MindOne Pro",
+  "brand": "IKKO",
+  "category": "Smartphones",
+  "added_on": "18th, Mar, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, January",
+  "expected_release": "2026, January",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 8500000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "50 MP, f/1.88 (Flip on rear camera)",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "2K@30fps, 1080p@30fps, 720p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "86 x 72 x 8.9 mm",
+    "Weight:": "132 g",
+    "Build:": "Glass front, glass back, metal frame",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others:": "IP54 dust protected and water resistant"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "2200 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED, 90Hz",
+    "Size:": "4.02 inches",
+    "Resolution:": "1080 x 1240 pixels",
+    "Protection:": "Sapphire glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "1, 2, 5, 8",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 20, 28, 66 38, 39, 40, 41",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15, iKKO AI OS",
+    "Chipset:": "MediaTek MT878 (12 nm)",
+    "CPU:": "Octa-core (2x2.2GHz Cortex-A76 & 6x2.0GHz Cortex-A55)",
+    "GPU:": "Mali-G57 MC2",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "Yes CS43198 Hi-Fi DAC"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7",
+    "Bluetooth:": "Yes, 5.2",
+    "GPS:": "GPS, GLONASS, Beidou, Galileo",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass, hall sensor"
+  }
+}
