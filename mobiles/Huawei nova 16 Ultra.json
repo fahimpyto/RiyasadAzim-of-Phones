@@ -1,0 +1,68 @@
+{
+  "title": "Huawei nova 16 Ultra",
+  "brand": "Huawei",
+  "category": "Smartphones",
+  "added_on": "19th, Mar, 2026",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Triple:": "50 MP 50 MP 50 MP",
+    "Features:": "HDR, panorama",
+    "Video:": "4K, 1080p, gyro-EIS, HDR Vivid",
+    "Single:": "50 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "Build:": "Glass front (Kunlun Glass), aluminum alloy frame, fiber-reinforced plastic back",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 2m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "7000 mAh",
+    "Charging:": "100W wired"
+  },
+  "Display": {
+    "Type:": "LTPO OLED, 1B colors, HDR Vivid, 120Hz, 2160Hz PWM, 4000 nits (peak)",
+    "Size:": "6.84 inches",
+    "Resolution:": "1320 x 2856 pixels",
+    "Protection:": "Kunlun Glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.0",
+    "Chipset:": "Kirin 9010S",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "256/512GB, 1TB",
+    "RAM:": "12 GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC (320-960 kbps HD audio)",
+    "GPS:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, compass"
+  }
+}
