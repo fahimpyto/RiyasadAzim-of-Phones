@@ -1,0 +1,67 @@
+{
+  "title": "Xiaomi Redmi 15A",
+  "brand": "Xiaomi",
+  "category": "Smartphones",
+  "added_on": "20th, Mar, 2026",
+  "status": "RUMORED",
+  "announced_date": "Not announced yet",
+  "expected_release": "Not announced yet",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP other unspecified cameras",
+    "Features:": "HDR",
+    "Video:": "1080p@30fps",
+    "Single:": "8 MP"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6300 mAh"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 144Hz, 700 nits (typ), 850 nits (HBM)",
+    "Size:": "6.9 inches",
+    "Resolution:": "1080 x 2340 pixels",
+    "Protection:": "Unspecified"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100",
+    "4G bands:": "1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 26, 28, 32, 38, 40, 41, 42, 48, 66, 71",
+    "5G bands:": "1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 77, 78, 71 SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16",
+    "Chipset:": "Qualcomm SM6375 Snapdragon 6s Gen 3 (6 nm)",
+    "CPU:": "-",
+    "GPU:": "-",
+    "Card slot:": "microSDXC (dedicated slot)",
+    "Internal:": "128/256 GB",
+    "RAM:": "4/8 GB",
+    "Variant:": "4GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes 24-bit/192kHz Hi-Res audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac, dual-band",
+    "Bluetooth:": "5.1, A2DP, LE",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS",
+    "NFC:": "Yes (market/region dependent)",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, compass"
+  }
+}
