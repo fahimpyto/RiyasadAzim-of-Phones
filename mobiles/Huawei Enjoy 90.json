@@ -1,0 +1,68 @@
+{
+  "title": "Huawei Enjoy 90",
+  "brand": "Huawei",
+  "category": "Smartphones",
+  "added_on": "23rd, Mar, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, March 23",
+  "expected_release": "2026, April 20",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 2500000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "8 MP, f/2.0, (wide)",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "4K@30fps, 1080p@30fps"
+  },
+  "Design": {
+    "Dimensions:": "166.1 x 76.6 x 8.3 mm (6.54 x 3.02 x 0.33 in)",
+    "Weight:": "212 g (7.48 oz)",
+    "Build:": "Glass front, plastic frame, aluminum back",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP64 dust tight and water resistant (water splashes) Drop resistant up to 1.8m"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "6620 mAh",
+    "Charging:": "40W wired, 55% in 30 min 5W reverse wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 120Hz, 850 nits (HBM)",
+    "Size:": "6.67 inches, 107.2 cm2 (~84.3% screen-to-body ratio)",
+    "Resolution:": "720 x 1604 pixels, 20:9 ratio (~264 ppi density)",
+    "Protection:": "Aluminosilicate glass"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "5G support is not specified by maker",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.0",
+    "Chipset:": "Kirin 8000A",
+    "CPU:": "Octa-core",
+    "GPU:": "-",
+    "Card slot:": "No",
+    "Internal:": "128/256 GB",
+    "RAM:": "8 GB",
+    "Variant:": "8GB 128GB / 8GB 256GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7 dual-band",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC",
+    "GPS:": "GPS, GLONASS, GALILEO, BDS, QZSS",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity, compass"
+  }
+}

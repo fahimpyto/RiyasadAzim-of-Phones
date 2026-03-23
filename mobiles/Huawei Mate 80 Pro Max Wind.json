@@ -1,0 +1,69 @@
+{
+  "title": "Huawei Mate 80 Pro Max Wind",
+  "brand": "Huawei",
+  "category": "Smartphones",
+  "added_on": "23rd, Mar, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, March 23",
+  "expected_release": "2026, April 27",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 16000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Triple:": "50 MP, f/1.4-f/4.0, 24mm (wide), PDAF, OIS 50 MP, f/2.1, 91mm (periscope telephoto), PDAF, OIS, 4x optical zoom 40 MP, f/2.2, 13mm, 120˚ (ultrawide), PDAF",
+    "Features:": "HDR, panorama",
+    "Video:": "4K, 1080p, HDR, gyro-EIS",
+    "Single:": "13 MP, f/2.0, 18mm (ultrawide), AF TOF 3D, (depth/biometrics sensor)"
+  },
+  "Design": {
+    "Dimensions:": "164.4 x 79 x 8.3 mm (6.47 x 3.11 x 0.33 in)",
+    "Weight:": "239 g (8.43 oz)",
+    "Build:": "Glass front, aluminum alloy frame, aluminum alloy back",
+    "SIM:": "Dual SIM (Nano-SIM, dual stand-by)",
+    "Others:": "IP68/IP69 dust tight and water resistant (high pressure water jets; immersible up to 6m for 30 min) Built-in cooling fan"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "6000 mAh",
+    "Charging:": "100W wired 80W wireless 20W reverse wireless 18W reverse wired"
+  },
+  "Display": {
+    "Type:": "LTPO OLED, 1B colors, 120Hz, 1440Hz PWM, HDR Vivid, 8000 nits (peak)",
+    "Size:": "6.9 inches, 117.2 cm2 (~90.2% screen-to-body ratio)",
+    "Resolution:": "1320 x 2848 pixels, 19.5:9 ratio (~455 ppi density)",
+    "Protection:": "Huawei Kunlun Glass 2"
+  },
+  "Cellular": {
+    "Technology:": "GSM / CDMA / HSPA / CDMA2000 / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900 CDMA 800",
+    "3G bands:": "HSDPA 800 / 850 / 900 / 1700(AWS) / 1900 / 2100 CDMA2000 1x",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE-A, 5G"
+  },
+  "Hardware": {
+    "OS:": "HarmonyOS 6.0",
+    "Chipset:": "Kirin 9030 Pro",
+    "CPU:": "9-core (1x2.75 GHz & 4x2.27 GHz & 4x1.72 GHz)",
+    "GPU:": "Maleoon 935",
+    "Card slot:": "No",
+    "Internal:": "512 GB / 1TB",
+    "RAM:": "16 GB",
+    "Variant:": "16GB 512GB / 16GB 1TB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No High-definition audio"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band, Wi-Fi Direct",
+    "Bluetooth:": "6.0, A2DP, LE, L2HC",
+    "GPS:": "GPS (L1+L5), GLONASS (L1), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 3.1, OTG, DisplayPort 1.2",
+    "Sensors:": "Face ID, fingerprint (side-mounted), accelerometer, gyro, proximity, barometer, compass BDS Satellite Calling and Messaging - China only"
+  }
+}
