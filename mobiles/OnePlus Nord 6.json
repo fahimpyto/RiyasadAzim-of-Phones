@@ -1,0 +1,69 @@
+{
+  "title": "OnePlus Nord 6",
+  "brand": "OnePlus",
+  "category": "Smartphones",
+  "added_on": "24th, Mar, 2026",
+  "status": "COMING SOON",
+  "announced_date": "Expected announcement 2026, April 07",
+  "expected_release": "2026, April",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 0,
+    "note": ""
+  },
+  "Camera": {
+    "Dual:": "50 MP, f/1.8, 24mm (wide), 1/1.56\", 1.0µm, PDAF, OIS Auxiliary lens",
+    "Features:": "Panorama",
+    "Video:": "1080p@30fps, gyro-EIS",
+    "Single:": "16 MP, f/2.4, 23mm (wide), 1/3\", 1.0µm"
+  },
+  "Design": {
+    "Dimensions:": "162.5 x 77.5 x 8.5 mm (6.40 x 3.05 x 0.33 in)",
+    "Weight:": "217 g (7.65 oz)",
+    "SIM:": "Nano-SIM + Nano-SIM",
+    "Others:": "IP68/IP69K dust tight and water resistant (high pressure water jets; immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Si/C Li-Ion",
+    "Capacity:": "9000 mAh",
+    "Charging:": "80W wired, UFCS, 55W PPS, 13.5W PD/QC 27W reverse wired Bypass charging"
+  },
+  "Display": {
+    "Type:": "AMOLED, 1B colors, 165Hz, 3840Hz PWM, HDR10+, 800 nits (typ), 1800 nits (peak)",
+    "Size:": "6.78 inches, 112.4 cm2 (~89.3% screen-to-body ratio)",
+    "Resolution:": "1272 x 2772 pixels, 19.5:9 ratio (~450 ppi density)",
+    "Protection:": "Corning Gorilla Glass 7i",
+    "Features:": "Ultra HDR image support"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE / 5G",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 2100",
+    "4G bands:": "LTE",
+    "5G bands:": "SA/NSA",
+    "Speed:": "HSPA, LTE, 5G"
+  },
+  "Hardware": {
+    "OS:": "Android 16, ColorOS 16",
+    "Chipset:": "Qualcomm SM8735 Snapdragon 8s Gen 4 (4 nm)",
+    "CPU:": "Octa-core (1x3.21 GHz Cortex-X4 & 3x3.0 GHz Cortex-A720 & 2x2.8 GHz Cortex-A720 & 2x2.0 GHz Cortex-A720)",
+    "GPU:": "Adreno 825",
+    "Card slot:": "No",
+    "Internal:": "256/512 GB",
+    "RAM:": "8/12 GB",
+    "Variant:": "8GB 256GB / 12GB 256GB / 12GB 512GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes, with stereo speakers",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 a/b/g/n/ac/6/7, dual-band",
+    "Bluetooth:": "5.4, A2DP, LE, aptX HD, aptX Adaptive, LHDC 5",
+    "GPS:": "GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5)",
+    "NFC:": "Yes",
+    "FM radio:": "No",
+    "USB:": "USB Type-C 2.0",
+    "Sensors:": "Fingerprint (under display, optical), accelerometer, gyro, proximity, compass"
+  }
+}
