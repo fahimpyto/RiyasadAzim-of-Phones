@@ -1,0 +1,64 @@
+{
+  "title": "Lava Bold N2 Lite",
+  "brand": "Lava",
+  "category": "Smartphones",
+  "added_on": "1st, Apr, 2026",
+  "status": "COMING SOON",
+  "announced_date": "2026, April 01",
+  "expected_release": "2026, April 10",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 1000000,
+    "note": "official price"
+  },
+  "Camera": {
+    "Single:": "5 MP",
+    "Features:": "LED flash, HDR, panorama",
+    "Video:": "Yes"
+  },
+  "Design": {
+    "Dimensions:": "-",
+    "Weight:": "-",
+    "SIM:": "Nano-SIM + Nano-SIM"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "5000 mAh",
+    "Charging:": "10W wired"
+  },
+  "Display": {
+    "Type:": "IPS LCD, 90Hz",
+    "Size:": "6.75 inches, 110.0 cm2 (~87.6% screen-to-body ratio)",
+    "Resolution:": "720 x 1600 pixels, 20:9 ratio (~260 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "GSM / HSPA / LTE",
+    "2G bands:": "GSM 850 / 900 / 1800 / 1900",
+    "3G bands:": "HSDPA 850 / 900 / 1900 / 2100",
+    "4G bands:": "LTE",
+    "Speed:": "HSPA, LTE"
+  },
+  "Hardware": {
+    "OS:": "Android 15 (Go edition)",
+    "Chipset:": "Unisoc SC9863A (28 nm)",
+    "CPU:": "Octa-core (4x1.6 GHz Cortex-A55 & 4x1.2 GHz Cortex-A55)",
+    "GPU:": "IMG8322",
+    "Card slot:": "microSDXC",
+    "Internal:": "64 GB",
+    "RAM:": "3 GB",
+    "Variant:": "3GB 64GB"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "Yes"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "Wi-Fi 802.11 b/g/n/ac",
+    "Bluetooth:": "4.2, A2DP",
+    "GPS:": "GPS, GLONASS",
+    "NFC:": "No",
+    "FM radio:": "Yes",
+    "USB:": "USB Type-C, OTG",
+    "Sensors:": "Fingerprint (side-mounted), accelerometer, proximity"
+  }
+}
