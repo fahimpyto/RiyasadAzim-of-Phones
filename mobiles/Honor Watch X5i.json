@@ -1,0 +1,54 @@
+{
+  "title": "Honor Watch X5i",
+  "brand": "Honor",
+  "category": "Smart watches",
+  "added_on": "2nd, Apr, 2026",
+  "status": "AVAILABLE",
+  "announced_date": "2026, April 01",
+  "expected_release": "2026, April 01",
+  "price": {
+    "local_currency": "BDT",
+    "amount": 500000,
+    "note": "official price"
+  },
+  "Camera": {},
+  "Design": {
+    "Dimensions:": "46.7 x 40.5 x 10.9 mm (1.84 x 1.59 x 0.43 in)",
+    "Weight:": "28 g (0.99 oz)",
+    "Build:": "Glass front, plastic frame, plastic back",
+    "SIM:": "No",
+    "Others:": "1ATM water resistant IP68 dust tight and water resistant (immersible up to 1.5m for 30 min)"
+  },
+  "Battery": {
+    "Type:": "Non-removable Li-Po",
+    "Capacity:": "420 mAh"
+  },
+  "Display": {
+    "Type:": "AMOLED",
+    "Size:": "1.97 inches",
+    "Resolution:": "390 x 450 pixels (~302 ppi density)"
+  },
+  "Cellular": {
+    "Technology:": "No cellular connectivity",
+    "2G bands:": "N/A",
+    "3G bands:": "N/A",
+    "4G bands:": "N/A"
+  },
+  "Hardware": {
+    "OS:": "RTOS OS",
+    "Chipset:": "-",
+    "Card slot:": "No"
+  },
+  "Multimedia": {
+    "Loudspeaker:": "Yes",
+    "3.5mm jack:": "No"
+  },
+  "Connectivity & Features": {
+    "WLAN:": "No",
+    "Bluetooth:": "5.4, LE",
+    "NFC:": "No",
+    "FM radio:": "No",
+    "USB:": "No",
+    "Sensors:": "Accelerometer, heart rate, SpO2"
+  }
+}
